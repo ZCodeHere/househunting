@@ -1,993 +1,753 @@
-A
-ZIP CODE	POST OFFICE	SUBSTATION
-08201	Absecon	 
-08201	Absecon	Pine Hill
-07710	Adelphia	 
-07727	Allaire	 
-07820	Allamuchy	 
-07401	Allendale	 
-07709	Allenhurst	 
-07711	Allenhurst	 
-08501	Allentown	 
-08720	Allenwood	 
-08001	Alloway	 
-08865	Alpha	 
-07620	Alpine	 
-07821	Andover	 
-08801	Annandale	 
-08802	Asbury	 
-07712	Asbury Park	 
-07712	Asbury Park	Ocean
-07713	Asbury Park	 
-08004	Atco	 
-08400	Atlantic City	 
-08401	Atlantic City	General Delivery
-08402	Atlantic City	Margate City
-08403	Atlantic City	Longport
-08404	Atlantic City	 
-08405	Atlantic City	Federal Aviation Tech Center
-08406	Atlantic City	Ventnor City
-08411	Atlantic City	 
-07716	Atlantic Highlands	 
-08106	Audubon	 
-07822	Augusta	 
-08202	Avalon	 
-07001	Avenel	 
-07717	Avon By the Sea	 
-top of page
-B
-08803	Baptistown	 
-08005	Barnegat	 
-08006	Barnegat Light	 
-08007	Barrington	 
-07920	Basking Ridge	 
-07939	Basking Ridge	 
-07939	Basking Ridge	Lyons
-08037	Batsto	 
-08742	Bay Head	 
-07002	Bayonne	 
-08721	Bayville	 
-08008	Beach Haven	 
-08722	Beachwood	 
-07921	Bedminster	 
-07718	Belford	 
-08502	Belle Mead	 
-07109	Belleville	 
-08031	Bellmawr	 
-07715	Belmar	 
-07719	Belmar	 
-07719	Belmar	Wall
-07823	Belvidere	 
-07621	Bergenfield	 
-07922	Berkeley Heights	 
-08009	Berlin	 
-07924	Bernardsville	 
-08010	Beverly	 
-08011	Birmingham	 
-08012	Blackwood	 
-08012	Blackwood	Turnersville
-08096	Blackwood Terrace	 
-07825	Blairstown	 
-08504	Blawenburg	 
-07003	Bloomfield	 
-07403	Bloomingdale	 
-08804	Bloomsbury	 
-07603	Bogota	 
-07005	Boonton	 
-08505	Bordentown	 
-08805	Bound Brook	 
-07720	Bradley Beach	 
-07826	Branchville	 
-07890	Branchville	 
-08723	Brick	 
-08723	Brick	Main Office
-08723	Brick	Osbornsville
-08723	Brick	General Delivery
-08723	Brick	Shore Acres
-08724	Brick	Rural Routes
-08014	Bridgeport	 
-08302	Bridgeton	 
-08302	Bridgeton	Seabrook
-08807	Bridgewater	 
-08730	Brielle	 
-08203	Brigantine	 
-08808	Broadway	 
-07926	Brookside	 
-08015	Browns Mills	 
-08857	Browntown	 
-07828	Budd Lake	 
-08310	Buena	 
-08016	Burlington	 
-07405	Butler	 
-07829	Buttzville	 
-top of page
-C
-07006	Caldwell	West Caldwell
-07007	Caldwell	Main Office Boxes
-07830	Califon	 
-08100	Camden	 
-08101	Camden	General Delivery
-08102	Camden	Main Office
-08103	Camden	 
-08104	Camden	 
-08105	Camden	East Camden
-08106	Camden	Audubon
-08107	Camden	Oaklyn
-08108	Camden	Collingswood, Haddon Township, Westmont
-08109	Camden	Merchantville
-08110	Camden	Pennsauken
-08110	Camden	Delair
-08204	Cape May	 
-08204	Cape May	North Cape May
-08210	Cape May Court House	 
-08212	Cape May Point	 
-07072	Carlstadt	 
-08069	Carney's Point	 
-07008	Carteret	 
-08018	Cedar Brook	 
-07009	Cedar Grove	 
-07927	Cedar Knolls	 
-08311	Cedarville	 
-07831	Changewater	 
-07928	Chatham	 
-08019	Chatsworth	 
-08002	Cherry Hill	Ellisburg
-08003	Cherry Hill	Woodcrest
-08034	Cherry Hill	Main Office
-08034	Cherry Hill	General Delivery
-08358	Cherry Hill	 
-07930	Chester	 
-08077	Cinnaminson	 
-07066	Clark	 
-08020	Clarksboro	 
-08510	Clarksburg	 
-08312	Clayton	 
-08021	Clementon	 
-08021	Clementon	Laurel Springs
-08021	Clementon	Lindenwold
-07010	Cliffside Park	 
-07721	Cliffwood	 
-07735	Cliffwood Beach	 
-07011	Clifton	Main Avenue Station
-07012	Clifton	Allwood
-07013	Clifton	 
-07014	Clifton	Delawanna
-07015	Clifton	Main Office
-07015	Clifton	General Delivery
-08809	Clinton	 
-07624	Closter	 
-08204	Coast Guard Base	 
-08213	Cologne	 
-07722	Colts Neck	 
-07832	Columbia	 
-08022	Columbus	 
-07961	Convent Station	 
-08511	Cookstown	 
-08512	Cranbury	 
-08570	Cranbury	 
-07016	Cranford	 
-08514	Creamridge	 
-07626	Cresskill	 
-08515	Crosswicks	 
-top of page
-D
-08810	Dayton	 
-07723	Deal	 
-08023	Deepwater	 
-08313	Deerfield Street	 
-08313	Delair	 
-08075	Delanco	 
-07833	Delaware	 
-08314	Delmont	 
-08075	Delran	 
-07627	Demarest	 
-08214	Dennisville	 
-07834	Denville	 
-08096	Deptford	 
-08315	Dividing Creek	 
-08316	Dorchester	 
-08317	Dorothy	 
-07801	Dover	 
-07802	Dover	 
-07869	Dover	 
-07869	Dover	Randolph
-07628	Dumont	 
-08812	Dunellen	 
-top of page
-E
-08816	East Brunswick	 
-07936	East Hanover	 
-07017	East Orange	 
-07018	East Orange	 
-07019	East Orange	Main Office
-07073	East Rutherford	 
-07724	Eatontown	 
-07724	Eatontown	Scobeyville
-07724	Eatontown	Tinton Falls
-07020	Edgewater	 
-08010	Edgewater Park	 
-08817	Edison	 
-08818	Edison	Main Office
-08820	Edison	 
-08837	Edison	 
-08215	Egg Harbor City	 
-08234	Egg Harbor Township	 
-07740	Elberon	 
-07200	Elizabeth	 
-07201	Elizabeth	Union Square
-07202	Elizabeth	Bayway
-07202	Elizabeth	Elmora
-07203	Elizabeth	Roselle
-07204	Elizabeth	Roselle Park
-07205	Elizabeth	Hillside
-07205	Elizabeth	Industrial Hillside
-07206	Elizabeth	Elizabethport
-07207	Elizabeth	Main Office
-07208	Elizabeth	North Elizabeth
-07215	Elizabeth	 
-07216	Elizabeth	 
-08318	Elmer	 
-07407	Elmwood Park	 
-08217	Elwood	 
-07630	Emerson	 
-07631	Englewood	Main Office
-07631	Englewood	General Delivery
-07632	Englewood	Englewood Cliffs
-07726	Englishtown	 
-07021	Essex Fells	 
-08319	Estell Manor	 
-08025	Ewan	 
-08618	Ewing	 
-08628	Ewing	 
-08638	Ewing	 
-top of page
-F
-07704	Fair Haven	 
-07410	Fair Lawn	 
-07004	Fairfield	 
-08320	Fairton	 
-07022	Fairview	 
-07023	Fanwood	 
-07931	Far Hills	 
-07727	Farmingdale	 
-08821	Flagtown	 
-07836	Flanders	 
-08822	Flemington	 
-08518	Florence	 
-07932	Florham Park	 
-08037	Folsom	 
-08863	Fords	Fords Branch
-08731	Forked River	 
-08640	Fort Dix	 
-07732	Fort Hancock	 
-07024	Fort Lee	 
-07703	Fort Monmouth	 
-08321	Fortescue	 
-07416	Franklin	 
-07417	Franklin Lakes	 
-08823	Franklin Park	 
-08322	Franklinville	 
-07728	Freehold	 
-08825	Frenchtown	 
-top of page
-G
-08205	Galloway	 
-07026	Garfield	 
-07027	Garwood	 
-08026	Gibbsboro	 
-08027	Gibbstown	 
-07933	Gillette	 
-07934	Gladstone	 
-08028	Glassboro	 
-07837	Glasser	 
-08826	Glen Gardner	 
-07028	Glen Ridge	 
-08029	Glendora	 
-07418	Glenwood	 
-08030	Gloucester City	 
-08218	Goshen	 
-07838	Great Meadows	 
-08812	Green Brook	 
-08219	Green Creek	 
-07935	Green Village	 
-07839	Greendell	 
-08323	Greenwich	 
-08032	Grenloch	 
-07950	Greystone Park	 
-07093	Guttenberg	 
-top of page
-H
-07601	Hackensack	Main Office
-07602	Hackensack	General Delivery
-07603	Hackensack	Bogota
-07604	Hackensack	Hasbrouck Heights
-07605	Hackensack	Leonia
-07606	Hackensack	South Hackensack
-07607	Hackensack	Maywood
-07608	Hackensack	Teterboro
-07840	Hackettstown	 
-08035	Haddon Heights	 
-08033	Haddonfield	 
-08036	Hainesport	 
-07508	Haledon-North Haledon	 
-07419	Hamburg	 
-08609	Hamilton	 
-08610	Hamilton	 
-08611	Hamilton	 
-08619	Hamilton	 
-08620	Hamilton	 
-08629	Hamilton	 
-08650	Hamilton	 
-08690	Hamilton	 
-08691	Hamilton	 
-08037	Hammonton	 
-08827	Hampton	 
-08038	Hancocks Bridge	 
-07640	Harrington Park	 
-07029	Harrison	 
-08039	Harrisonville	 
-08008	Harvey Cedars	 
-07604	Hasbrouck Heights	 
-07420	Haskell	 
-07641	Haworth	 
-07730	Hazlet	 
-08324	Heislerville	 
-08828	Helmetta	 
-07421	Hewitt	 
-07842	Hibernia	 
-08829	High Bridge	 
-07422	Highland Lakes	 
-08904	Highland Park	 
-07732	Highlands	 
-08520	Hightstown	 
-08844	Hillsborough	 
-07642	Hillsdale	 
-07205	Hillside	 
-07423	Ho Ho Kus	 
-07030	Hoboken	 
-07733	Holmdel	 
-07777	Holmdel	 
-07843	Hopatcong	 
-07844	Hope	 
-08525	Hopewell	 
-07731	Howell	 
-07047	Hudson Heights	 
-top of page
-I
-08526	Imlaystown	 
-07205	Industrial Hillside	 
-07845	Ironia	 
-07111	Irvington	 
-08830	Iselin	 
-08732	Island Heights	 
-top of page
-J
-08527	Jackson	 
-08831	Jamesburg	 
-07097	Jersey City	 
-07300	Jersey City	 
-07302	Jersey City	 
-07303	Jersey City	Main Office
-07304	Jersey City	Bergen Station
-07305	Jersey City	Greenville Station
-07306	Jersey City	Journal Square Station
-07307	Jersey City	Hudson City Station
-07308	Jersey City	Five Corners Station
-07309	Jersey City	General Lafayette Station
-07310	Jersey City	 
-07311	Jersey City	 
-07399	Jersey City	 
-08041	Jobstown	 
-07846	Johnsonburg	 
-08042	Juliustown	 
-top of page
-K
-07734	Keansburg	 
-07734	Keansburg	North Middletown
-07032	Kearny	 
-07032	Kearny	North Arlington
-08832	Keasbey	 
-08824	Kendall Park	 
-07033	Kenilworth	 
-07098	Kenilworth	 
-07847	Kenvil	 
-07735	Keyport	 
-08528	Kingston	 
-07405	Kinnelon	 
-08040	Kirkwood	 
-top of page
-L
-07848	Lafayette	 
-07034	Lake Hiawatha	 
-07849	Lake Hopatcong	 
-08733	Lakehurst	 
-08733	Lakehurst	NAEC
-08759	Lakehurst	 
-08759	Lakehurst	Whiting
-08701	Lakewood	 
-08530	Lambertville	 
-07850	Landing	 
-08326	Landisville	 
-08734	Lanoka Harbor	 
-08021	Laurel Springs	 
-08879	Laurence Harbor	 
-08735	Lavallette	 
-08045	Lawnside	 
-08648	Lawrenceville	 
-07851	Layton	 
-08833	Lebanon	 
-07852	Ledgewood	 
-08220	Leeds Point	 
-08327	Leesburg	 
-07737	Leonardo	 
-07605	Leonia	 
-07938	Liberty Corner	 
-07035	Lincoln Park	 
-07738	Lincroft	 
-07036	Linden	 
-08221	Linwood	 
-08222	Linwood	 
-08227	Linwood	 
-07424	Little Falls	 
-07643	Little Ferry	 
-07739	Little Silver	 
-08834	Little York	 
-07039	Livingston	 
-07644	Lodi	 
-08008	Long Beach	 
-07740	Long Branch	 
-07853	Long Valley	 
-08403	Longport	 
-08048	Lumberton	 
-07071	Lyndhurst	 
-07939	Lyons	 
-top of page
-M
-07940	Madison	 
-08049	Magnolia	 
-07430	Mahwah	 
-07495	Mahwah	 
-07498	Mahwah	 
-08328	Malaga	 
-08050	Manahawkin	 
-08736	Manasquan	 
-08759	Manchester Township	 
-08738	Mantoloking	 
-08051	Mantua	 
-08835	Manville	 
-08052	Maple Shade	 
-07040	Maplewood	 
-08402	Margate City	 
-07746	Marlboro	 
-08053	Marlton	 
-08223	Marmora	 
-08836	Martinsville	 
-07747	Matawan	 
-08329	Mauricetown	 
-08330	Mays Landing	 
-07607	Maywood	 
-07428	McAfee	 
-08641	McGuire A F B	 
-08055	Medford	 
-08055	Medford	Medford Lakes
-07945	Mendham	 
-08619	Mercerville	 
-08109	Merchantville	 
-08840	Metuchen	 
-08056	Mickleton	 
-08875	Middlebush	 
-08846	Middlesex	 
-07748	Middletown	 
-07855	Middleville	 
-07432	Midland Park	 
-08848	Milford	 
-07041	Millburn	 
-07946	Millington	 
-08850	Milltown	 
-08332	Millville	 
-08340	Milmay	 
-07803	Mine Hill	 
-08341	Minotola	 
-08342	Mizpah	 
-07750	Monmouth Beach	 
-08852	Monmouth Junction	 
-08343	Monroeville	 
-07827	Montague	 
-07042	Montclair	Main Office
-07042	Montclair	General Delivery
-07043	Montclair	Upper Montclair
-07044	Montclair	 
-07645	Montvale	 
-07045	Montville	 
-07074	Moonachie	 
-08057	Moorestown	 
-08879	Morgan	 
-07751	Morganville	 
-07950	Morris Plains	 
-07960	Morristown	 
-07961	Morristown	 
-07962	Morristown	 
-07964	Morristown	 
-07856	Mount Arlington	 
-08059	Mount Ephraim	 
-07970	Mount Freedom	 
-08060	Mount Holly	 
-08054	Mount Laurel	 
-07828	Mount Olive Township	 
-08061	Mount Royal	 
-07878	Mount Tabor	 
-07046	Mountain Lakes	 
-07092	Mountainside	 
-08062	Mullica Hill	 
-top of page
-N
-08063	National Park	 
-07752	Navesink	 
-07753	Neptune	 
-07753	Neptune	Neptune City
-07754	Neptune	Main Office Boxes
-08853	Neshanic Station	 
-07857	Netcong	 
-08899	New Brunswick	 
-08901	New Brunswick	General Delivery
-08902	New Brunswick	Rural Routes
-08902	New Brunswick	North Brunswick
-08903	New Brunswick	Main Office
-08904	New Brunswick	Highland Park
-08905	New Brunswick	 
-08906	New Brunswick	 
-08922	New Brunswick	 
-08933	New Brunswick	 
-08988	New Brunswick	 
-08989	New Brunswick	 
-08533	New Egypt	 
-08224	New Gretna	 
-08064	New Lisbon	 
-07646	New Milford	 
-07748	New Monmouth	 
-07974	New Providence	 
-07976	New Vernon	 
-07100	Newark	 
-07101	Newark	Main Office
-07102	Newark	General Delivery
-07102	Newark	Broad St Annex Station
-07103	Newark	West Station
-07105	Newark	Ironbound
-07106	Newark	Vailsburg
-07107	Newark	Roseville
-07108	Newark	Clinton Hill
-07109	Newark	Belleville
-07109	Newark	Belleville Annex
-07110	Newark	Nutley
-07111	Newark	Irvington
-07114	Newark	South Station
-07175	Newark	 
-07183	Newark	 
-07184	Newark	 
-07185	Newark	 
-07187	Newark	 
-07188	Newark	 
-07189	Newark	 
-07190	Newark	 
-07191	Newark	 
-07192	Newark	 
-07193	Newark	 
-07194	Newark	 
-07195	Newark	 
-07197	Newark	 
-07198	Newark	 
-07199	Newark	 
-08344	Newfield	 
-07435	Newfoundland	 
-08345	Newport	 
-07860	Newton	 
-08346	Newtonville	 
-08347	Norma	 
-08739	Normandy Beach	 
-07031	North Arlington	 
-07047	North Bergen	 
-07047	North Bergen	Hudson Heights
-08876	North Branch	 
-08902	North Brunswick	 
-08204	North Cape May	 
-07099	North Jersey Facility	 
-07047	North Middletown	 
-07060	North Plainfield	 
-08260	North Wildwood	 
-08225	Northfield	 
-07647	Northvale	 
-07647	Northvale	Rockleigh
-07648	Norwood	 
-07110	Nutley	 
-top of page
-O
-07438	Oak Ridge	 
-07755	Oakhurst	 
-07436	Oakland	 
-07712	Ocean	 
-08226	Ocean City	 
-08740	Ocean Gate	 
-07756	Ocean Grove	 
-08230	Ocean View	 
-07757	Oceanport	 
-08231	Oceanville	 
-07439	Ogdensburg	 
-08857	Old Bridge	 
-07675	Old Tappan	 
-08858	Oldwick	 
-07649	Oradell	 
-07050	Orange	 
-07051	Orange	Main Office
-07051	Orange	General Delivery
-07052	Orange	Town Center Branch
-07052	Orange	West Orange
-08723	Osbornsville	 
-07863	Oxford	 
-top of page
-P
-07470	Packanack Lake	 
-07650	Palisades Park	 
-08065	Palmyra	 
-07652	Paramus	 
-07653	Paramus	Main Office Boxes
-07656	Park Ridge	 
-08859	Parlin	 
-07054	Parsippany	 
-07055	Passaic	 
-07057	Passaic	 
-07057	Passaic	Wallington
-07500	Paterson	 
-07501	Paterson	 
-07502	Paterson	 
-07503	Paterson	 
-07504	Paterson	 
-07505	Paterson	 
-07506	Paterson	Hawthorne
-07507	Paterson	 
-07508	Paterson	Haledon
-07508	Paterson	North Haledon
-07508	Paterson	Prospect Park
-07509	Paterson	 
-07510	Paterson	General Delivery
-07511	Paterson	 
-07512	Paterson	Totowa
-07513	Paterson	 
-07514	Paterson	 
-07522	Paterson	 
-07524	Paterson	 
-07530	Paterson	 
-07533	Paterson	South Paterson
-07538	Paterson	 
-07543	Paterson	 
-07544	Paterson	River St Station
-08066	Paulsboro	 
-07977	Peapack	 
-08067	Pedricktown	 
-08068	Pemberton	 
-08534	Pennington	 
-08069	Penns Grove	 
-08070	Pennsville	 
-07440	Pequannock	 
-08535	Perrineville	 
-08861	Perrineville	Main Office
-08863	Perrineville	Fords Branch
-08861	Perrineville	General Delivery
-08862	Perth Amboy	 
-08865	Phillipsburg	 
-07806	Picatinny Arsenal	 
-08741	Pine Beach	 
-07058	Pine Brook	 
-08021	Pine Hill	 
-08854	Piscataway	 
-08855	Piscataway	Main Office Boxes
-08071	Pitman	 
-08867	Pittstown	 
-07060	Plainfield	North Plainfield
-07060	Plainfield	Muhlenberg
-07060	Plainfield	Warren
-07060	Plainfield	Watchung
-07060	Plainfield	Rural Routes
-07061	Plainfield	Main Office
-07062	Plainfield	Netherwood
-07063	Plainfield	 
-08536	Plainsboro	 
-08232	Pleasantville	 
-08233	Pleasantville	 
-07978	Pluckemin	 
-08742	Point Pleasant	 
-08742	Point Pleasant	Point Pleasant Beach
-08240	Pomona	 
-07442	Pompton Lakes	 
-07444	Pompton Plains	 
-08348	Port Elizabeth	 
-07758	Port Monmouth	 
-07865	Port Murray	 
-08349	Port Norris	 
-07064	Port Reading	 
-08241	Port Republic	 
-07979	Pottersville	 
-08540	Princeton	Main Office
-08540	Princeton	General Delivery
-08540	Princeton	Rural Routes
-08541	Princeton	 
-08542	Princeton	Palmer Square Station
-08543	Princeton	 
-08544	Princeton	 
-08550	Princeton Junction	 
-07508	Prospect Park	 
-top of page
-Q
-08868	Quakertown	 
-08072	Quinton	 
-top of page
-R
-07065	Rahway	Main Office
-07065	Rahway	General Delivery
-07066	Rahway	Clark
-07067	Rahway	Colonia
-07446	Ramsey	 
-08073	Rancocas	 
-07869	Randolph	 
-08869	Raritan	 
-08870	Readington	 
-07701	Red Bank	 
-07701	Red Bank	Suburban
-07703	Red Bank	 
-07799	Red Bank	 
-08350	Richland	 
-08074	Richwood	 
-07657	Ridgefield	 
-07660	Ridgefield Park	 
-07450	Ridgewood	Main Office
-07451	Ridgewood	General Delivery
-07452	Ridgewood	Glen Rock
-08551	Ringoes	 
-07456	Ringwood	 
-08242	Rio Grande	 
-07661	River Edge	 
-07457	Riverdale	 
-08075	Riverside	 
-08370	Riverside	 
-08077	Riverton	 
-07662	Rochelle Park	 
-07866	Rockaway	 
-07647	Rockleigh	 
-08553	Rocky Hill	 
-08554	Roebling	 
-08555	Roosevelt	 
-07068	Roseland	 
-07203	Roselle	 
-07204	Roselle Park	 
-08556	Rosemont	 
-08352	Rosenhayn	 
-07760	Rumson	 
-07760	Rumson	Sea Bright
-08078	Runnemede	 
-07070	Rutherford	Main Office
-07071	Rutherford	Lyndhurst
-07072	Rutherford	Carlstadt
-07073	Rutherford	East Rutherford
-07074	Rutherford	Moonachie
-07075	Rutherford	Wood Ridge
-top of page
-S
-07663	Saddle Brook	 
-07458	Saddle River	 
-08079	Salem	 
-08871	Sayreville	 
-08872	Sayreville	 
-07870	Schooleys Mountain	 
-07076	Scotch Plains	 
-07760	Sea Bright	 
-08750	Sea Girt	 
-08243	Sea Isle City	 
-08243	Sea Isle City	Townsend's Inlet
-08302	Seabrook	 
-08751	Seaside Heights	 
-08752	Seaside Park	 
-07094	Secaucus	 
-07096	Secaucus	 
-08557	Sergeantsville	 
-07077	Sewaren	 
-08080	Sewell	 
-08353	Shiloh	 
-08008	Ship Bottom	 
-08723	Shore Acres	 
-07078	Short Hills	 
-07702	Shrewsbury	 
-08081	Sicklerville	 
-08558	Skillman	 
-08083	Somerdale	 
-08244	Somers Point	 
-08873	Somerset	 
-08875	Somerset	 
-08875	Somerset	Middlebush
-08890	Somerset	 
-08890	Somerset	Zarephath
-08876	Somerville	 
-08876	Somerville	North Branch
-08877	Somerville	 
-08878	South Amboy	 
-08879	South Amboy	 
-08879	South Amboy	Laurence Harbor
-08879	South Amboy	Morgan
-08880	South Bound Brook	 
-08876	South Branch	 
-07606	South Hackensack	 
-08245	South Dennis	 
-08031	South Jersey Facility	 
-07079	South Orange	 
-07080	South Plainfield	 
-08882	South River	 
-08246	South Seaville	 
-08360	South Vineland	 
-07871	Sparta	 
-08884	Spotswood	 
-07762	Spring Lake	 
-07762	Spring Lake	Saddle Brook
-07081	Springfield	 
-07874	Stanhope	 
-08885	Stanton	 
-08886	Stewartsville	 
-07875	Stillwater	 
-07980	Stirling	 
-07460	Stockholm	 
-08559	Stockton	 
-08247	Stone Harbor	 
-08084	Stratford	 
-08248	Strathmere	 
-07701	Suburan	 
-07876	Succasunna	 
-07901	Summit	 
-07902	Summit	 
-07999	Summit	 
-07461	Sussex	 
-08008	Surf City	 
-07877	Swartswood	 
-08085	Swedesboro	 
-top of page
-T
-07666	Teaneck	 
-07688	Teaneck	 
-07670	Tenafly	 
-07608	Teterboro	 
-07763	Tennent	 
-08086	Thorofare	 
-08887	Three Bridges	 
-07724	Tinton Falls	 
-08560	Titusville	 
-08753	Toms River	Main Office
-08753	Toms River	General Delivery
-08753	Toms River	Rural Routes 1 & 5
-08754	Toms River	 
-08755	Toms River	 
-08756	Toms River	Holiday City
-08757	Toms River	Rural Routes 2, 3, & 4
-07512	Totowa	 
-07082	Towaco	 
-07052	Town Center	 
-08243	Townsend's Inlet	 
-07879	Tranquility	 
-08600	Trenton	 
-08601	Trenton	 
-08602	Trenton	 
-08603	Trenton	 
-08604	Trenton	 
-08605	Trenton	 
-08606	Trenton	 
-08607	Trenton	Downtown Branch
-08608	Trenton	 
-08609	Trenton	 
-08610	Trenton	C Station
-08611	Trenton	Chambersburg
-08618	Trenton	 
-08619	Trenton	Mercerville
-08620	Trenton	Yardville
-08620	Trenton	Rural Routes 2 & 7
-08625	Trenton	 
-08628	Trenton	West Trenton
-08629	Trenton	E Station
-08638	Trenton	 
-08640	Trenton	Fort Dix
-08641	Trenton	McGuire Air Force Base
-08645	Trenton	 
-08646	Trenton	 
-08647	Trenton	 
-08648	Trenton	Circle Branch
-08648	Trenton	Lawrenceville
-08648	Trenton	Rural Routes 1, 6 & 8
-08650	Trenton	General Delivery
-08666	Trenton	 
-08677	Trenton	 
-08690	Trenton	 
-08691	Trenton	Rural Routes 3, 4 & 5
-08695	Trenton	 
-08250	Tuckahoe	 
-08087	Tuckerton	 
-08012	Turnersville	 
-07676	Twp of Washington	 
-top of page
-U
-07083	Union	 
-07735	Union Beach	 
-07087	Union City	 
-07087	Union City	Weehawken
-07043	Upper Montclair	 
-top of page
-V
-07088	Vauxhall	 
-08406	Ventnor City	 
-07462	Vernon	 
-07044	Verona	 
-07880	Vienna	 
-08251	Villas	 
-08088	Vincentown	 
-08360	Vineland	 
-08360	Vineland	South Vineland
-08043	Voorhees	 
-top of page
-W
-07463	Waldwick	 
-07719	Wall	 
-07057	Wallington	 
-07881	Wallpack Center	 
-07465	Wanaque	 
-08758	Waretown	 
-07059	Warren	 
-07882	Washington	 
-07060	Watchung	 
-08089	Waterford Works	 
-07470	Wayne	 
-07470	Wayne	Packanack Lake
-07474	Wayne	Main Office Boxes
-07477	Wayne	 
-07086	Weehawken	 
-08090	Wenonah	 
-08091	West Berlin	 
-07006	West Caldwell	 
-07007	West Caldwell	Main Offices Boxes
-08092	West Creek	 
-07740	West End	 
-07666	West Englewood	 
-07764	West Long Branch	 
-07480	West Milford	 
-07093	West New York	 
-07052	West Orange	 
-07424	West Paterson	 
-08628	West Trenton	 
-07090	Westfield	Main Office
-07091	Westfield	General Delivery
-07092	Westfield	Mountainside
-08093	Westville	 
-07675	Westwood	 
-07675	Westwood	Old Tappan
-07675	Westwood	River Vale
-07675	Westwood	Woodcliff Lake
-07885	Wharton	 
-07981	Whippany	 
-08889	White House Station	 
-08888	Whitehouse	 
-08252	Whitesboro	 
-08759	Whiting	 
-07765	Wickatunk	 
-08260	Wildwood	 
-08260	Wildwood	Wildwood Crest
-08260	Wildwood	North Wildwood
-08094	Williamstown	 
-08046	Willingboro	 
-08561	Windsor	 
-08095	Winslow	 
-07075	Wood Ridge	 
-08270	Woodbine	 
-07095	Woodbridge	 
-08096	Woodbury	 
-08097	Woodbury Heights	 
-08098	Woodstown	 
-08562	Wrightstown	 
-07481	Wyckoff	 
-top of page
-Y
-08620	Yardville	 
-top of page
-Z
-08890	Zarephath	 
+US	08037	Hammonton	New Jersey	NJ	Atlantic	001			39.638	-74.7728	
+US	08201	Absecon	New Jersey	NJ	Atlantic	001			39.4218	-74.4949	
+US	08203	Brigantine	New Jersey	NJ	Atlantic	001			39.3702	-74.494	
+US	08205	Absecon	New Jersey	NJ	Atlantic County	001			39.4745	-74.4575	
+US	08213	Cologne	New Jersey	NJ	Atlantic	001			39.5092	-74.6086	
+US	08215	Egg Harbor City	New Jersey	NJ	Atlantic	001			39.5331	-74.6177	
+US	08217	Elwood	New Jersey	NJ	Atlantic	001			39.5737	-74.72	
+US	08220	Leeds Point	New Jersey	NJ	Atlantic	001			39.5092	-74.6086	
+US	08221	Linwood	New Jersey	NJ	Atlantic	001			39.3469	-74.5807	
+US	08222	Linwood	New Jersey	NJ	Atlantic County	001			39.3422	-74.5703	
+US	08225	Northfield	New Jersey	NJ	Atlantic	001			39.3703	-74.5552	
+US	08227	Linwood	New Jersey	NJ	Atlantic County	001			39.3422	-74.5703	
+US	08231	Oceanville	New Jersey	NJ	Atlantic	001			39.5092	-74.6086	
+US	08232	Pleasantville	New Jersey	NJ	Atlantic	001			39.3876	-74.5149	
+US	08234	Egg Harbor Township	New Jersey	NJ	Atlantic	001			39.3741	-74.6118	
+US	08240	Pomona	New Jersey	NJ	Atlantic	001			39.4877	-74.5543	
+US	08241	Port Republic	New Jersey	NJ	Atlantic	001			39.5272	-74.4903	
+US	08244	Somers Point	New Jersey	NJ	Atlantic	001			39.3223	-74.6008	
+US	08310	Buena	New Jersey	NJ	Atlantic	001			39.537	-74.8895	
+US	08317	Dorothy	New Jersey	NJ	Atlantic	001			39.4031	-74.8316	
+US	08319	Estell Manor	New Jersey	NJ	Atlantic	001			39.3783	-74.8165	
+US	08326	Landisville	New Jersey	NJ	Atlantic	001			39.5239	-74.9377	
+US	08330	Mays Landing	New Jersey	NJ	Atlantic	001			39.432	-74.6962	
+US	08340	Milmay	New Jersey	NJ	Atlantic	001			39.4451	-74.8667	
+US	08341	Minotola	New Jersey	NJ	Atlantic	001			39.5155	-74.9467	
+US	08342	Mizpah	New Jersey	NJ	Atlantic	001			39.5021	-74.8335	
+US	08346	Newtonville	New Jersey	NJ	Atlantic	001			39.5645	-74.859	
+US	08350	Richland	New Jersey	NJ	Atlantic	001			39.485	-74.8776	
+US	08400	Atlantic City	New Jersey	NJ	Atlantic County	001			39.3642	-74.4233	
+US	08401	Atlantic City	New Jersey	NJ	Atlantic	001			39.3664	-74.4317	
+US	08402	Margate City	New Jersey	NJ	Atlantic	001			39.3286	-74.509	
+US	08403	Longport	New Jersey	NJ	Atlantic	001			39.3194	-74.5356	
+US	08404	Atlantic City	New Jersey	NJ	Atlantic	001			39.5092	-74.6086	
+US	08405	Atlantic City	New Jersey	NJ	Atlantic	001			39.5092	-74.6086	
+US	08406	Ventnor City	New Jersey	NJ	Atlantic	001			39.346	-74.4723	
+US	08411	Atlantic City	New Jersey	NJ	Atlantic County	001			39.359	-74.4311	
+US	07010	Cliffside Park	New Jersey	NJ	Bergen	003			40.8222	-73.988	
+US	07020	Edgewater	New Jersey	NJ	Bergen	003			40.8317	-73.9738	
+US	07022	Fairview	New Jersey	NJ	Bergen	003			40.817	-74	
+US	07024	Fort Lee	New Jersey	NJ	Bergen	003			40.8503	-73.9745	
+US	07026	Garfield	New Jersey	NJ	Bergen	003			40.8789	-74.1081	
+US	07031	North Arlington	New Jersey	NJ	Bergen	003			40.7898	-74.1343	
+US	07057	Wallington	New Jersey	NJ	Bergen	003			40.8536	-74.1079	
+US	07070	Rutherford	New Jersey	NJ	Bergen	003			40.8292	-74.1121	
+US	07071	Lyndhurst	New Jersey	NJ	Bergen	003			40.8094	-74.1245	
+US	07072	Carlstadt	New Jersey	NJ	Bergen	003			40.8403	-74.0925	
+US	07073	East Rutherford	New Jersey	NJ	Bergen	003			40.8385	-74.1041	
+US	07074	Moonachie	New Jersey	NJ	Bergen	003			40.8394	-74.0566	
+US	07075	Wood Ridge	New Jersey	NJ	Bergen	003			40.8493	-74.0878	
+US	07401	Allendale	New Jersey	NJ	Bergen	003			41.0327	-74.1342	
+US	07407	Elmwood Park	New Jersey	NJ	Bergen	003			40.9069	-74.1209	
+US	07410	Fair Lawn	New Jersey	NJ	Bergen	003			40.9343	-74.1166	
+US	07417	Franklin Lakes	New Jersey	NJ	Bergen	003			41.0081	-74.2113	
+US	07423	Ho Ho Kus	New Jersey	NJ	Bergen	003			41.0004	-74.1025	
+US	07430	Mahwah	New Jersey	NJ	Bergen	003			41.0817	-74.1861	
+US	07432	Midland Park	New Jersey	NJ	Bergen	003			40.9957	-74.1409	
+US	07436	Oakland	New Jersey	NJ	Bergen	003			41.0294	-74.2338	
+US	07446	Ramsey	New Jersey	NJ	Bergen	003			41.0577	-74.1445	
+US	07450	Ridgewood	New Jersey	NJ	Bergen	003			40.982	-74.1131	
+US	07451	Ridgewood	New Jersey	NJ	Bergen	003			40.9481	-74.0832	
+US	07452	Glen Rock	New Jersey	NJ	Bergen	003			40.9602	-74.1254	
+US	07458	Saddle River	New Jersey	NJ	Bergen	003			41.0443	-74.0981	
+US	07463	Waldwick	New Jersey	NJ	Bergen	003			41.013	-74.1243	
+US	07481	Wyckoff	New Jersey	NJ	Bergen	003			40.9978	-74.166	
+US	07495	Mahwah	New Jersey	NJ	Bergen	003			41.1039	-74.1644	
+US	07498	Mahwah	New Jersey	NJ	Bergen	003			40.9481	-74.0832	
+US	07601	Hackensack	New Jersey	NJ	Bergen	003			40.8882	-74.0503	
+US	07602	Hackensack	New Jersey	NJ	Bergen	003			40.9481	-74.0832	
+US	07603	Bogota	New Jersey	NJ	Bergen	003			40.8744	-74.0281	
+US	07604	Hasbrouck Heights	New Jersey	NJ	Bergen	003			40.8623	-74.0756	
+US	07605	Leonia	New Jersey	NJ	Bergen	003			40.8629	-73.9879	
+US	07606	South Hackensack	New Jersey	NJ	Bergen	003			40.8634	-74.0456	
+US	07607	Maywood	New Jersey	NJ	Bergen	003			40.9024	-74.0629	
+US	07608	Teterboro	New Jersey	NJ	Bergen	003			40.864	-74.0556	
+US	07620	Alpine	New Jersey	NJ	Bergen	003			40.9511	-73.9308	
+US	07621	Bergenfield	New Jersey	NJ	Bergen	003			40.9238	-73.9989	
+US	07624	Closter	New Jersey	NJ	Bergen	003			40.9721	-73.959	
+US	07626	Cresskill	New Jersey	NJ	Bergen	003			40.9418	-73.9652	
+US	07627	Demarest	New Jersey	NJ	Bergen	003			40.9548	-73.9602	
+US	07628	Dumont	New Jersey	NJ	Bergen	003			40.9447	-73.9921	
+US	07630	Emerson	New Jersey	NJ	Bergen	003			40.9755	-74.0285	
+US	07631	Englewood	New Jersey	NJ	Bergen	003			40.8943	-73.9772	
+US	07632	Englewood Cliffs	New Jersey	NJ	Bergen	003			40.882	-73.9544	
+US	07640	Harrington Park	New Jersey	NJ	Bergen	003			40.9918	-73.98	
+US	07641	Haworth	New Jersey	NJ	Bergen	003			40.9608	-73.9874	
+US	07642	Hillsdale	New Jersey	NJ	Bergen	003			41.0069	-74.0426	
+US	07643	Little Ferry	New Jersey	NJ	Bergen	003			40.8493	-74.0405	
+US	07644	Lodi	New Jersey	NJ	Bergen	003			40.8764	-74.0838	
+US	07645	Montvale	New Jersey	NJ	Bergen	003			41.0495	-74.0384	
+US	07646	New Milford	New Jersey	NJ	Bergen	003			40.9331	-74.0195	
+US	07647	Northvale	New Jersey	NJ	Bergen	003			41.0086	-73.9389	
+US	07648	Norwood	New Jersey	NJ	Bergen	003			40.9952	-73.9582	
+US	07649	Oradell	New Jersey	NJ	Bergen	003			40.9535	-74.0335	
+US	07650	Palisades Park	New Jersey	NJ	Bergen	003			40.8462	-73.9954	
+US	07652	Paramus	New Jersey	NJ	Bergen	003			40.9477	-74.0672	
+US	07653	Paramus	New Jersey	NJ	Bergen	003			40.9481	-74.0832	
+US	07656	Park Ridge	New Jersey	NJ	Bergen	003			41.0343	-74.0396	
+US	07657	Ridgefield	New Jersey	NJ	Bergen	003			40.8326	-74.0015	
+US	07660	Ridgefield Park	New Jersey	NJ	Bergen	003			40.8562	-74.023	
+US	07661	River Edge	New Jersey	NJ	Bergen	003			40.9265	-74.0392	
+US	07662	Rochelle Park	New Jersey	NJ	Bergen	003			40.9057	-74.079	
+US	07663	Saddle Brook	New Jersey	NJ	Bergen	003			40.9031	-74.0955	
+US	07666	Teaneck	New Jersey	NJ	Bergen	003			40.8915	-74.0119	
+US	07670	Tenafly	New Jersey	NJ	Bergen	003			40.9216	-73.9659	
+US	07675	Westwood	New Jersey	NJ	Bergen	003			41.0092	-74.0041	
+US	07676	Township Of Washington	New Jersey	NJ	Bergen County	003			40.9883	-74.0635	
+US	07677	Woodcliff Lake	New Jersey	NJ	Bergen County	003			41.0234	-74.0603	
+US	07688	Teaneck	New Jersey	NJ	Bergen	003			40.9481	-74.0832	
+US	07699	Teterboro	New Jersey	NJ	Bergen County	003			40.8463	-74.0611	
+US	08010	Beverly	New Jersey	NJ	Burlington	005			40.0565	-74.9114	
+US	08011	Birmingham	New Jersey	NJ	Burlington	005			39.976	-74.7114	
+US	08015	Browns Mills	New Jersey	NJ	Burlington	005			39.9597	-74.5655	
+US	08016	Burlington	New Jersey	NJ	Burlington	005			40.068	-74.8454	
+US	08019	Chatsworth	New Jersey	NJ	Burlington	005			39.8019	-74.5256	
+US	08022	Columbus	New Jersey	NJ	Burlington	005			40.0642	-74.6899	
+US	08036	Hainesport	New Jersey	NJ	Burlington	005			39.9872	-74.8293	
+US	08041	Jobstown	New Jersey	NJ	Burlington	005			40.0387	-74.6873	
+US	08042	Juliustown	New Jersey	NJ	Burlington	005			40.0123	-74.6646	
+US	08046	Willingboro	New Jersey	NJ	Burlington	005			40.029	-74.8835	
+US	08048	Lumberton	New Jersey	NJ	Burlington	005			39.9651	-74.8067	
+US	08052	Maple Shade	New Jersey	NJ	Burlington	005			39.9511	-74.9946	
+US	08053	Marlton	New Jersey	NJ	Burlington	005			39.8845	-74.9067	
+US	08054	Mount Laurel	New Jersey	NJ	Burlington	005			39.9478	-74.9036	
+US	08055	Medford	New Jersey	NJ	Burlington	005			39.8637	-74.8223	
+US	08057	Moorestown	New Jersey	NJ	Burlington	005			39.9683	-74.9533	
+US	08060	Mount Holly	New Jersey	NJ	Burlington	005			40.0086	-74.7896	
+US	08064	New Lisbon	New Jersey	NJ	Burlington	005			39.8624	-74.7251	
+US	08065	Palmyra	New Jersey	NJ	Burlington	005			40.0037	-75.0257	
+US	08068	Pemberton	New Jersey	NJ	Burlington	005			39.9712	-74.6676	
+US	08073	Rancocas	New Jersey	NJ	Burlington	005			40.0095	-74.8668	
+US	08075	Riverside	New Jersey	NJ	Burlington	005			40.0293	-74.9497	
+US	08076	Riverton	New Jersey	NJ	Burlington	005			39.8624	-74.7251	
+US	08077	Riverton	New Jersey	NJ	Burlington	005			40.002	-74.9952	
+US	08088	Vincentown	New Jersey	NJ	Burlington	005			39.8604	-74.6693	
+US	08224	New Gretna	New Jersey	NJ	Burlington	005			39.5952	-74.4357	
+US	08370	Riverside	New Jersey	NJ	Burlington	005			39.8624	-74.7251	
+US	08505	Bordentown	New Jersey	NJ	Burlington	005			40.1431	-74.7032	
+US	08511	Cookstown	New Jersey	NJ	Burlington	005			40.0481	-74.5595	
+US	08515	Crosswicks	New Jersey	NJ	Burlington	005			40.1476	-74.6615	
+US	08518	Florence	New Jersey	NJ	Burlington	005			40.118	-74.8055	
+US	08554	Roebling	New Jersey	NJ	Burlington	005			40.1154	-74.7772	
+US	08562	Wrightstown	New Jersey	NJ	Burlington	005			40.072	-74.5731	
+US	08640	Trenton	New Jersey	NJ	Burlington	005			40.0098	-74.6052	
+US	08641	Trenton	New Jersey	NJ	Burlington	005			40.027	-74.588	
+US	08002	Cherry Hill	New Jersey	NJ	Camden	007			39.9308	-75.0175	
+US	08003	Cherry Hill	New Jersey	NJ	Camden	007			39.8805	-74.9706	
+US	08004	Atco	New Jersey	NJ	Camden	007			39.76	-74.8665	
+US	08007	Barrington	New Jersey	NJ	Camden	007			39.8651	-75.0564	
+US	08009	Berlin	New Jersey	NJ	Camden	007			39.7788	-74.9308	
+US	08012	Blackwood	New Jersey	NJ	Camden	007			39.7901	-75.0367	
+US	08018	Cedar Brook	New Jersey	NJ	Camden	007			39.8024	-74.9383	
+US	08021	Clementon	New Jersey	NJ	Camden	007			39.8036	-75.0058	
+US	08026	Gibbsboro	New Jersey	NJ	Camden	007			39.8365	-74.971	
+US	08029	Glendora	New Jersey	NJ	Camden	007			39.8404	-75.0697	
+US	08030	Gloucester City	New Jersey	NJ	Camden	007			39.8911	-75.117	
+US	08031	Bellmawr	New Jersey	NJ	Camden	007			39.8689	-75.0944	
+US	08033	Haddonfield	New Jersey	NJ	Camden	007			39.8954	-75.0417	
+US	08034	Cherry Hill	New Jersey	NJ	Camden	007			39.9074	-75.0008	
+US	08035	Haddon Heights	New Jersey	NJ	Camden	007			39.8788	-75.0664	
+US	08043	Voorhees	New Jersey	NJ	Camden	007			39.8504	-74.9646	
+US	08045	Lawnside	New Jersey	NJ	Camden	007			39.8676	-75.0317	
+US	08049	Magnolia	New Jersey	NJ	Camden	007			39.8538	-75.0393	
+US	08059	Mount Ephraim	New Jersey	NJ	Camden	007			39.8827	-75.0929	
+US	08078	Runnemede	New Jersey	NJ	Camden	007			39.8508	-75.0742	
+US	08081	Sicklerville	New Jersey	NJ	Camden	007			39.7354	-74.9864	
+US	08083	Somerdale	New Jersey	NJ	Camden	007			39.84	-75.0309	
+US	08084	Stratford	New Jersey	NJ	Camden	007			39.8288	-75.0147	
+US	08089	Waterford Works	New Jersey	NJ	Camden	007			39.7215	-74.8609	
+US	08091	West Berlin	New Jersey	NJ	Camden	007			39.8051	-74.9255	
+US	08095	Winslow	New Jersey	NJ	Camden	007			39.6549	-74.8685	
+US	08099	Bellmawr	New Jersey	NJ	Camden	007			39.7792	-74.9621	
+US	08100	Camden	New Jersey	NJ	Camden County	007			39.9532	-75.0722	
+US	08101	Camden	New Jersey	NJ	Camden	007			39.8024	-74.9383	
+US	08102	Camden	New Jersey	NJ	Camden	007			39.9512	-75.1186	
+US	08103	Camden	New Jersey	NJ	Camden	007			39.9351	-75.1117	
+US	08104	Camden	New Jersey	NJ	Camden	007			39.9186	-75.1078	
+US	08105	Camden	New Jersey	NJ	Camden	007			39.9484	-75.0864	
+US	08106	Audubon	New Jersey	NJ	Camden	007			39.891	-75.0724	
+US	08107	Oaklyn	New Jersey	NJ	Camden	007			39.908	-75.0849	
+US	08108	Collingswood	New Jersey	NJ	Camden	007			39.9157	-75.0634	
+US	08109	Merchantville	New Jersey	NJ	Camden	007			39.9519	-75.0482	
+US	08110	Pennsauken	New Jersey	NJ	Camden	007			39.9723	-75.0607	
+US	08358	Cherry Hill	New Jersey	NJ	Camden County	007			39.9023	-74.9961	
+US	08202	Avalon	New Jersey	NJ	Cape May	009			39.0951	-74.7262	
+US	08204	Cape May	New Jersey	NJ	Cape May	009			38.9711	-74.9214	
+US	08210	Cape May Court House	New Jersey	NJ	Cape May	009			39.1378	-74.7806	
+US	08212	Cape May Point	New Jersey	NJ	Cape May	009			38.9372	-74.9654	
+US	08214	Dennisville	New Jersey	NJ	Cape May	009			39.0565	-74.8166	
+US	08218	Goshen	New Jersey	NJ	Cape May	009			39.0565	-74.8166	
+US	08219	Green Creek	New Jersey	NJ	Cape May	009			39.0565	-74.8166	
+US	08223	Marmora	New Jersey	NJ	Cape May	009			39.2586	-74.6593	
+US	08226	Ocean City	New Jersey	NJ	Cape May	009			39.2709	-74.5875	
+US	08230	Ocean View	New Jersey	NJ	Cape May	009			39.2154	-74.7075	
+US	08233	Pleasantville	New Jersey	NJ	Cape May County	009			39.3905	-74.5188	
+US	08242	Rio Grande	New Jersey	NJ	Cape May	009			39.0196	-74.8756	
+US	08243	Sea Isle City	New Jersey	NJ	Cape May	009			39.154	-74.7005	
+US	08245	South Dennis	New Jersey	NJ	Cape May	009			39.1	-74.8487	
+US	08246	South Seaville	New Jersey	NJ	Cape May	009			39.0565	-74.8166	
+US	08247	Stone Harbor	New Jersey	NJ	Cape May	009			39.0533	-74.762	
+US	08248	Strathmere	New Jersey	NJ	Cape May	009			39.1992	-74.6554	
+US	08250	Tuckahoe	New Jersey	NJ	Cape May	009			39.0565	-74.8166	
+US	08251	Villas	New Jersey	NJ	Cape May	009			39.0219	-74.9354	
+US	08252	Whitesboro	New Jersey	NJ	Cape May	009			39.0421	-74.8618	
+US	08260	Wildwood	New Jersey	NJ	Cape May	009			38.9949	-74.838	
+US	08270	Woodbine	New Jersey	NJ	Cape May	009			39.2716	-74.7968	
+US	08302	Bridgeton	New Jersey	NJ	Cumberland	011			39.3762	-75.1617	
+US	08311	Cedarville	New Jersey	NJ	Cumberland	011			39.337	-75.1994	
+US	08313	Deerfield Street	New Jersey	NJ	Cumberland	011			39.5293	-75.2249	
+US	08314	Delmont	New Jersey	NJ	Cumberland	011			39.2023	-74.9705	
+US	08315	Dividing Creek	New Jersey	NJ	Cumberland	011			39.2732	-75.095	
+US	08316	Dorchester	New Jersey	NJ	Cumberland	011			39.2679	-74.9791	
+US	08320	Fairton	New Jersey	NJ	Cumberland	011			39.3799	-75.2217	
+US	08321	Fortescue	New Jersey	NJ	Cumberland	011			39.2189	-75.1403	
+US	08323	Greenwich	New Jersey	NJ	Cumberland	011			39.4055	-75.3209	
+US	08324	Heislerville	New Jersey	NJ	Cumberland	011			39.224	-74.9942	
+US	08327	Leesburg	New Jersey	NJ	Cumberland	011			39.3879	-75.0074	
+US	08329	Mauricetown	New Jersey	NJ	Cumberland	011			39.2853	-74.9983	
+US	08332	Millville	New Jersey	NJ	Cumberland	011			39.3673	-75.0293	
+US	08345	Newport	New Jersey	NJ	Cumberland	011			39.2832	-75.1716	
+US	08348	Port Elizabeth	New Jersey	NJ	Cumberland	011			39.3131	-74.9807	
+US	08349	Port Norris	New Jersey	NJ	Cumberland	011			39.2563	-75.0506	
+US	08352	Rosenhayn	New Jersey	NJ	Cumberland	011			39.4695	-75.1462	
+US	08353	Shiloh	New Jersey	NJ	Cumberland	011			39.4594	-75.297	
+US	08360	Vineland	New Jersey	NJ	Cumberland	011			39.4818	-75.0091	
+US	08361	Vineland	New Jersey	NJ	Cumberland	011			39.4655	-74.9653	
+US	08362	Vineland	New Jersey	NJ	Cumberland	011			39.2713	-75.0277	
+US	07003	Bloomfield	New Jersey	NJ	Essex	013			40.8035	-74.1891	
+US	07004	Fairfield	New Jersey	NJ	Essex	013			40.8822	-74.296	
+US	07006	Caldwell	New Jersey	NJ	Essex	013			40.8545	-74.2789	
+US	07007	Caldwell	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07009	Cedar Grove	New Jersey	NJ	Essex	013			40.8534	-74.2297	
+US	07017	East Orange	New Jersey	NJ	Essex	013			40.7696	-74.2077	
+US	07018	East Orange	New Jersey	NJ	Essex	013			40.7558	-74.2198	
+US	07019	East Orange	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07021	Essex Fells	New Jersey	NJ	Essex	013			40.8279	-74.2797	
+US	07028	Glen Ridge	New Jersey	NJ	Essex	013			40.804	-74.2055	
+US	07039	Livingston	New Jersey	NJ	Essex	013			40.7896	-74.3202	
+US	07040	Maplewood	New Jersey	NJ	Essex	013			40.7279	-74.2656	
+US	07041	Millburn	New Jersey	NJ	Essex	013			40.7228	-74.3015	
+US	07042	Montclair	New Jersey	NJ	Essex	013			40.8131	-74.2165	
+US	07043	Montclair	New Jersey	NJ	Essex	013			40.843	-74.2011	
+US	07044	Verona	New Jersey	NJ	Essex	013			40.8319	-74.2428	
+US	07050	Orange	New Jersey	NJ	Essex	013			40.7692	-74.2355	
+US	07051	Orange	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07052	West Orange	New Jersey	NJ	Essex	013			40.7859	-74.2568	
+US	07068	Roseland	New Jersey	NJ	Essex	013			40.8203	-74.3047	
+US	07078	Short Hills	New Jersey	NJ	Essex	013			40.7368	-74.3271	
+US	07079	South Orange	New Jersey	NJ	Essex	013			40.7465	-74.2575	
+US	07101	Newark	New Jersey	NJ	Essex	013			40.7361	-74.2251	
+US	07102	Newark	New Jersey	NJ	Essex	013			40.732	-74.1765	
+US	07103	Newark	New Jersey	NJ	Essex	013			40.737	-74.1964	
+US	07104	Newark	New Jersey	NJ	Essex	013			40.7664	-74.1695	
+US	07105	Newark	New Jersey	NJ	Essex	013			40.7271	-74.1563	
+US	07106	Newark	New Jersey	NJ	Essex	013			40.7415	-74.233	
+US	07107	Newark	New Jersey	NJ	Essex	013			40.7607	-74.1882	
+US	07108	Newark	New Jersey	NJ	Essex	013			40.7236	-74.2015	
+US	07109	Belleville	New Jersey	NJ	Essex	013			40.7946	-74.1631	
+US	07110	Nutley	New Jersey	NJ	Essex	013			40.8185	-74.1589	
+US	07111	Irvington	New Jersey	NJ	Essex	013			40.7261	-74.2313	
+US	07112	Newark	New Jersey	NJ	Essex	013			40.7107	-74.2131	
+US	07114	Newark	New Jersey	NJ	Essex	013			40.7082	-74.1891	
+US	07175	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07182	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07184	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07188	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07189	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07191	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07192	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07193	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07194	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07195	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07197	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07198	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	07199	Newark	New Jersey	NJ	Essex	013			40.7918	-74.2452	
+US	08014	Bridgeport	New Jersey	NJ	Gloucester	015			39.8016	-75.3478	
+US	08020	Clarksboro	New Jersey	NJ	Gloucester	015			39.7992	-75.2237	
+US	08025	Ewan	New Jersey	NJ	Gloucester	015			39.7015	-75.1629	
+US	08027	Gibbstown	New Jersey	NJ	Gloucester	015			39.8231	-75.2751	
+US	08028	Glassboro	New Jersey	NJ	Gloucester	015			39.7068	-75.1172	
+US	08032	Grenloch	New Jersey	NJ	Gloucester	015			39.7788	-75.0601	
+US	08039	Harrisonville	New Jersey	NJ	Gloucester	015			39.6931	-75.2711	
+US	08051	Mantua	New Jersey	NJ	Gloucester	015			39.787	-75.1785	
+US	08056	Mickleton	New Jersey	NJ	Gloucester	015			39.7857	-75.2498	
+US	08061	Mount Royal	New Jersey	NJ	Gloucester	015			39.8097	-75.2082	
+US	08062	Mullica Hill	New Jersey	NJ	Gloucester	015			39.7252	-75.2065	
+US	08063	National Park	New Jersey	NJ	Gloucester	015			39.8664	-75.1794	
+US	08066	Paulsboro	New Jersey	NJ	Gloucester	015			39.8312	-75.2242	
+US	08071	Pitman	New Jersey	NJ	Gloucester	015			39.7312	-75.1297	
+US	08074	Richwood	New Jersey	NJ	Gloucester	015			39.7206	-75.1681	
+US	08080	Sewell	New Jersey	NJ	Gloucester	015			39.7473	-75.0899	
+US	08085	Swedesboro	New Jersey	NJ	Gloucester	015			39.7529	-75.3362	
+US	08086	Thorofare	New Jersey	NJ	Gloucester	015			39.8457	-75.1943	
+US	08090	Wenonah	New Jersey	NJ	Gloucester	015			39.7993	-75.1536	
+US	08093	Westville	New Jersey	NJ	Gloucester	015			39.8605	-75.1323	
+US	08094	Williamstown	New Jersey	NJ	Gloucester	015			39.665	-74.971	
+US	08096	Woodbury	New Jersey	NJ	Gloucester	015			39.822	-75.1297	
+US	08097	Woodbury Heights	New Jersey	NJ	Gloucester	015			39.8142	-75.153	
+US	08312	Clayton	New Jersey	NJ	Gloucester	015			39.659	-75.0942	
+US	08322	Franklinville	New Jersey	NJ	Gloucester	015			39.6156	-75.0409	
+US	08328	Malaga	New Jersey	NJ	Gloucester	015			39.5755	-75.0582	
+US	08343	Monroeville	New Jersey	NJ	Gloucester	015			39.6442	-75.1568	
+US	08344	Newfield	New Jersey	NJ	Gloucester	015			39.5553	-75.0276	
+US	07002	Bayonne	New Jersey	NJ	Hudson	017			40.6664	-74.1192	
+US	07029	Harrison	New Jersey	NJ	Hudson	017			40.7445	-74.1508	
+US	07030	Hoboken	New Jersey	NJ	Hudson	017			40.7445	-74.0329	
+US	07032	Kearny	New Jersey	NJ	Hudson	017			40.7647	-74.1471	
+US	07047	North Bergen	New Jersey	NJ	Hudson	017			40.7939	-74.0258	
+US	07086	Weehawken	New Jersey	NJ	Hudson County	017			40.7681	-74.0208	
+US	07087	Union City	New Jersey	NJ	Hudson	017			40.7674	-74.0323	
+US	07093	West New York	New Jersey	NJ	Hudson	017			40.7888	-74.0115	
+US	07094	Secaucus	New Jersey	NJ	Hudson	017			40.791	-74.0634	
+US	07096	Secaucus	New Jersey	NJ	Hudson	017			40.7328	-74.0755	
+US	07097	Jersey City	New Jersey	NJ	Hudson	017			40.7328	-74.0755	
+US	07099	Kearny	New Jersey	NJ	Hudson	017			40.7328	-74.0755	
+US	07302	Jersey City	New Jersey	NJ	Hudson	017			40.7221	-74.0469	
+US	07303	Jersey City	New Jersey	NJ	Hudson	017			40.7328	-74.0755	
+US	07304	Jersey City	New Jersey	NJ	Hudson	017			40.718	-74.0754	
+US	07305	Jersey City	New Jersey	NJ	Hudson	017			40.702	-74.089	
+US	07306	Jersey City	New Jersey	NJ	Hudson	017			40.7321	-74.066	
+US	07307	Jersey City	New Jersey	NJ	Hudson	017			40.7482	-74.0498	
+US	07308	Jersey City	New Jersey	NJ	Hudson	017			40.7328	-74.0755	
+US	07309	Jersey City	New Jersey	NJ	Hudson	017			40.7328	-74.0755	
+US	07310	Jersey City	New Jersey	NJ	Hudson	017			40.7324	-74.0431	
+US	07311	Jersey City	New Jersey	NJ	Hudson	017			40.7323	-74.0754	
+US	07390	Jersey City	New Jersey	NJ	Hudson County	017			40.7282	-74.0784	
+US	07395	Jersey City	New Jersey	NJ	Hudson County	017			40.7279	-74.078	
+US	07399	Jersey City	New Jersey	NJ	Hudson	017			40.7323	-74.0754	
+US	07830	Califon	New Jersey	NJ	Hunterdon	019			40.7162	-74.8152	
+US	07979	Pottersville	New Jersey	NJ	Hunterdon	019			40.7026	-74.7276	
+US	08530	Lambertville	New Jersey	NJ	Hunterdon	019			40.3731	-74.9266	
+US	08551	Ringoes	New Jersey	NJ	Hunterdon	019			40.4459	-74.8288	
+US	08556	Rosemont	New Jersey	NJ	Hunterdon	019			40.42	-74.9886	
+US	08557	Sergeantsville	New Jersey	NJ	Hunterdon	019			40.5637	-74.9494	
+US	08559	Stockton	New Jersey	NJ	Hunterdon	019			40.4397	-74.9554	
+US	08801	Annandale	New Jersey	NJ	Hunterdon	019			40.6287	-74.8855	
+US	08803	Baptistown	New Jersey	NJ	Hunterdon	019			40.5637	-74.9494	
+US	08804	Bloomsbury	New Jersey	NJ	Hunterdon	019			40.6437	-75.0966	
+US	08809	Clinton	New Jersey	NJ	Hunterdon	019			40.6412	-74.9088	
+US	08822	Flemington	New Jersey	NJ	Hunterdon	019			40.518	-74.8453	
+US	08825	Frenchtown	New Jersey	NJ	Hunterdon	019			40.5208	-75.0325	
+US	08826	Glen Gardner	New Jersey	NJ	Hunterdon	019			40.7134	-74.9162	
+US	08827	Hampton	New Jersey	NJ	Hunterdon	019			40.6774	-74.9622	
+US	08829	High Bridge	New Jersey	NJ	Hunterdon	019			40.6684	-74.8937	
+US	08833	Lebanon	New Jersey	NJ	Hunterdon	019			40.6466	-74.829	
+US	08834	Little York	New Jersey	NJ	Hunterdon	019			40.5637	-74.9494	
+US	08848	Milford	New Jersey	NJ	Hunterdon	019			40.5929	-75.1025	
+US	08858	Oldwick	New Jersey	NJ	Hunterdon	019			40.6918	-74.7525	
+US	08867	Pittstown	New Jersey	NJ	Hunterdon	019			40.5992	-74.9576	
+US	08868	Quakertown	New Jersey	NJ	Hunterdon	019			40.5655	-74.9389	
+US	08870	Readington	New Jersey	NJ	Hunterdon	019			40.5637	-74.9494	
+US	08885	Stanton	New Jersey	NJ	Hunterdon	019			40.5764	-74.8311	
+US	08887	Three Bridges	New Jersey	NJ	Hunterdon	019			40.5206	-74.7946	
+US	08888	Whitehouse	New Jersey	NJ	Hunterdon	019			40.6194	-74.7406	
+US	08889	Whitehouse Station	New Jersey	NJ	Hunterdon	019			40.6156	-74.7724	
+US	08520	Hightstown	New Jersey	NJ	Mercer	021			40.2669	-74.525	
+US	08525	Hopewell	New Jersey	NJ	Mercer	021			40.3902	-74.771	
+US	08534	Pennington	New Jersey	NJ	Mercer	021			40.3339	-74.7944	
+US	08540	Princeton	New Jersey	NJ	Mercer	021			40.3666	-74.6408	
+US	08541	Princeton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08542	Princeton	New Jersey	NJ	Mercer	021			40.3535	-74.6594	
+US	08543	Princeton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08544	Princeton	New Jersey	NJ	Mercer	021			40.3492	-74.6528	
+US	08550	Princeton Junction	New Jersey	NJ	Mercer	021			40.2669	-74.6511	
+US	08560	Titusville	New Jersey	NJ	Mercer	021			40.3077	-74.8655	
+US	08561	Windsor	New Jersey	NJ	Mercer	021			40.2423	-74.5787	
+US	08601	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08602	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08603	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08604	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08605	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08606	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08607	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08608	Trenton	New Jersey	NJ	Mercer	021			40.2204	-74.7622	
+US	08609	Trenton	New Jersey	NJ	Mercer	021			40.2248	-74.741	
+US	08610	Trenton	New Jersey	NJ	Mercer	021			40.2016	-74.705	
+US	08611	Trenton	New Jersey	NJ	Mercer	021			40.1967	-74.7416	
+US	08618	Trenton	New Jersey	NJ	Mercer	021			40.2377	-74.7821	
+US	08619	Trenton	New Jersey	NJ	Mercer	021			40.2418	-74.6962	
+US	08620	Trenton	New Jersey	NJ	Mercer	021			40.167	-74.6488	
+US	08625	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08628	Trenton	New Jersey	NJ	Mercer	021			40.2655	-74.8168	
+US	08629	Trenton	New Jersey	NJ	Mercer	021			40.2196	-74.7334	
+US	08638	Trenton	New Jersey	NJ	Mercer	021			40.251	-74.7627	
+US	08645	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08646	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08647	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08648	Trenton	New Jersey	NJ	Mercer	021			40.2795	-74.6912	
+US	08650	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08666	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08677	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	08690	Trenton	New Jersey	NJ	Mercer	021			40.2336	-74.6576	
+US	08691	Trenton	New Jersey	NJ	Mercer	021			40.2197	-74.5939	
+US	08695	Trenton	New Jersey	NJ	Mercer	021			40.2805	-74.712	
+US	07001	Avenel	New Jersey	NJ	Middlesex	023			40.5826	-74.2785	
+US	07008	Carteret	New Jersey	NJ	Middlesex	023			40.5823	-74.2313	
+US	07064	Port Reading	New Jersey	NJ	Middlesex	023			40.5709	-74.2466	
+US	07067	Colonia	New Jersey	NJ	Middlesex	023			40.5937	-74.3164	
+US	07077	Sewaren	New Jersey	NJ	Middlesex	023			40.5542	-74.2607	
+US	07080	South Plainfield	New Jersey	NJ	Middlesex	023			40.5839	-74.4147	
+US	07095	Woodbridge	New Jersey	NJ	Middlesex	023			40.556	-74.2845	
+US	07098	Avenel	New Jersey	NJ	Middlesex County	023			40.5802	-74.2853	
+US	08512	Cranbury	New Jersey	NJ	Middlesex	023			40.3039	-74.5065	
+US	08536	Plainsboro	New Jersey	NJ	Middlesex	023			40.3324	-74.5688	
+US	08570	Cranbury	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08810	Dayton	New Jersey	NJ	Middlesex	023			40.3825	-74.5111	
+US	08812	Dunellen	New Jersey	NJ	Middlesex	023			40.5897	-74.4639	
+US	08816	East Brunswick	New Jersey	NJ	Middlesex	023			40.4284	-74.4064	
+US	08817	Edison	New Jersey	NJ	Middlesex	023			40.5171	-74.3973	
+US	08818	Edison	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08820	Edison	New Jersey	NJ	Middlesex	023			40.578	-74.3589	
+US	08824	Kendall Park	New Jersey	NJ	Middlesex	023			40.4208	-74.5529	
+US	08828	Helmetta	New Jersey	NJ	Middlesex	023			40.3777	-74.4204	
+US	08830	Iselin	New Jersey	NJ	Middlesex	023			40.5716	-74.3167	
+US	08831	Jamesburg	New Jersey	NJ	Middlesex	023			40.3425	-74.4336	
+US	08832	Keasbey	New Jersey	NJ	Middlesex	023			40.5192	-74.3021	
+US	08837	Edison	New Jersey	NJ	Middlesex	023			40.5325	-74.3375	
+US	08840	Metuchen	New Jersey	NJ	Middlesex	023			40.5449	-74.3517	
+US	08846	Middlesex	New Jersey	NJ	Middlesex	023			40.5759	-74.5008	
+US	08850	Milltown	New Jersey	NJ	Middlesex	023			40.4493	-74.439	
+US	08852	Monmouth Junction	New Jersey	NJ	Middlesex	023			40.3869	-74.5558	
+US	08854	Piscataway	New Jersey	NJ	Middlesex	023			40.5515	-74.459	
+US	08855	Piscataway	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08857	Old Bridge	New Jersey	NJ	Middlesex	023			40.398	-74.3236	
+US	08859	Parlin	New Jersey	NJ	Middlesex	023			40.4587	-74.305	
+US	08861	Perth Amboy	New Jersey	NJ	Middlesex	023			40.5176	-74.2754	
+US	08862	Perth Amboy	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08863	Fords	New Jersey	NJ	Middlesex	023			40.5393	-74.3117	
+US	08871	Sayreville	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08872	Sayreville	New Jersey	NJ	Middlesex	023			40.46	-74.3478	
+US	08877	South River	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08878	South Amboy	New Jersey	NJ	Middlesex	023			40.4369	-74.2509	
+US	08879	South Amboy	New Jersey	NJ	Middlesex	023			40.464	-74.2742	
+US	08882	South River	New Jersey	NJ	Middlesex	023			40.4444	-74.3801	
+US	08884	Spotswood	New Jersey	NJ	Middlesex	023			40.3847	-74.3894	
+US	08899	Edison	New Jersey	NJ	Middlesex	023			40.5203	-74.4205	
+US	08901	New Brunswick	New Jersey	NJ	Middlesex	023			40.4891	-74.4482	
+US	08902	North Brunswick	New Jersey	NJ	Middlesex	023			40.4538	-74.4823	
+US	08903	New Brunswick	New Jersey	NJ	Middlesex	023			40.5139	-74.4451	
+US	08904	Highland Park	New Jersey	NJ	Middlesex	023			40.4991	-74.4266	
+US	08905	New Brunswick	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08906	New Brunswick	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08922	New Brunswick	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08933	New Brunswick	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08988	New Brunswick	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	08989	New Brunswick	New Jersey	NJ	Middlesex	023			40.43	-74.4173	
+US	07701	Red Bank	New Jersey	NJ	Monmouth	025			40.3584	-74.0681	
+US	07702	Shrewsbury	New Jersey	NJ	Monmouth	025			40.3282	-74.0589	
+US	07703	Fort Monmouth	New Jersey	NJ	Monmouth	025			40.3177	-74.039	
+US	07704	Fair Haven	New Jersey	NJ	Monmouth	025			40.3599	-74.0389	
+US	07709	Allenhurst	New Jersey	NJ	Monmouth	025			40.3027	-74.2493	
+US	07710	Adelphia	New Jersey	NJ	Monmouth	025			40.3027	-74.2493	
+US	07711	Allenhurst	New Jersey	NJ	Monmouth	025			40.2367	-74.0067	
+US	07712	Asbury Park	New Jersey	NJ	Monmouth	025			40.2507	-74.0486	
+US	07715	Belmar	New Jersey	NJ	Monmouth	025			40.3027	-74.2493	
+US	07716	Atlantic Highlands	New Jersey	NJ	Monmouth	025			40.4015	-74.0309	
+US	07717	Avon By The Sea	New Jersey	NJ	Monmouth	025			40.1918	-74.0167	
+US	07718	Belford	New Jersey	NJ	Monmouth	025			40.4173	-74.0889	
+US	07719	Belmar	New Jersey	NJ	Monmouth	025			40.1688	-74.072	
+US	07720	Bradley Beach	New Jersey	NJ	Monmouth	025			40.2023	-74.0132	
+US	07721	Cliffwood	New Jersey	NJ	Monmouth	025			40.4353	-74.2358	
+US	07722	Colts Neck	New Jersey	NJ	Monmouth	025			40.3012	-74.178	
+US	07723	Deal	New Jersey	NJ	Monmouth	025			40.2506	-74.002	
+US	07724	Eatontown	New Jersey	NJ	Monmouth	025			40.3028	-74.0698	
+US	07726	Englishtown	New Jersey	NJ	Monmouth	025			40.2825	-74.3424	
+US	07727	Farmingdale	New Jersey	NJ	Monmouth	025			40.2043	-74.1779	
+US	07728	Freehold	New Jersey	NJ	Monmouth	025			40.2458	-74.2768	
+US	07730	Hazlet	New Jersey	NJ	Monmouth	025			40.4226	-74.1799	
+US	07731	Howell	New Jersey	NJ	Monmouth	025			40.1481	-74.2137	
+US	07732	Highlands	New Jersey	NJ	Monmouth	025			40.4011	-74.0006	
+US	07733	Holmdel	New Jersey	NJ	Monmouth	025			40.3859	-74.174	
+US	07734	Keansburg	New Jersey	NJ	Monmouth	025			40.4414	-74.1306	
+US	07735	Keyport	New Jersey	NJ	Monmouth	025			40.4384	-74.1881	
+US	07737	Leonardo	New Jersey	NJ	Monmouth	025			40.4177	-74.0623	
+US	07738	Lincroft	New Jersey	NJ	Monmouth	025			40.3369	-74.1205	
+US	07739	Little Silver	New Jersey	NJ	Monmouth	025			40.3354	-74.0413	
+US	07740	Long Branch	New Jersey	NJ	Monmouth	025			40.2992	-73.9912	
+US	07746	Marlboro	New Jersey	NJ	Monmouth	025			40.3182	-74.2639	
+US	07747	Matawan	New Jersey	NJ	Monmouth	025			40.4109	-74.238	
+US	07748	Middletown	New Jersey	NJ	Monmouth	025			40.3944	-74.1157	
+US	07750	Monmouth Beach	New Jersey	NJ	Monmouth	025			40.333	-73.9809	
+US	07751	Morganville	New Jersey	NJ	Monmouth	025			40.3529	-74.2779	
+US	07752	Navesink	New Jersey	NJ	Monmouth	025			40.4023	-74.0273	
+US	07753	Neptune	New Jersey	NJ	Monmouth	025			40.2096	-74.0714	
+US	07754	Neptune	New Jersey	NJ	Monmouth	025			40.3027	-74.2493	
+US	07755	Oakhurst	New Jersey	NJ	Monmouth	025			40.2648	-74.0184	
+US	07756	Ocean Grove	New Jersey	NJ	Monmouth	025			40.2116	-74.0093	
+US	07757	Oceanport	New Jersey	NJ	Monmouth	025			40.3157	-74.0164	
+US	07758	Port Monmouth	New Jersey	NJ	Monmouth	025			40.4289	-74.1083	
+US	07760	Rumson	New Jersey	NJ	Monmouth	025			40.3707	-74.0084	
+US	07762	Spring Lake	New Jersey	NJ	Monmouth	025			40.1542	-74.0379	
+US	07763	Tennent	New Jersey	NJ	Monmouth	025			40.3027	-74.2493	
+US	07764	West Long Branch	New Jersey	NJ	Monmouth	025			40.2878	-74.0162	
+US	07765	Wickatunk	New Jersey	NJ	Monmouth	025			40.3027	-74.2493	
+US	07777	Holmdel	New Jersey	NJ	Monmouth	025			40.3027	-74.2493	
+US	07799	Eatontown	New Jersey	NJ	Monmouth	025			40.3027	-74.2493	
+US	08501	Allentown	New Jersey	NJ	Monmouth	025			40.1589	-74.5909	
+US	08510	Clarksburg	New Jersey	NJ	Monmouth	025			40.1998	-74.4344	
+US	08514	Cream Ridge	New Jersey	NJ	Monmouth	025			40.1399	-74.465	
+US	08526	Imlaystown	New Jersey	NJ	Monmouth	025			40.1623	-74.4759	
+US	08535	Perrineville	New Jersey	NJ	Monmouth	025			40.215	-74.4404	
+US	08555	Roosevelt	New Jersey	NJ	Monmouth	025			40.2214	-74.4747	
+US	08720	Allenwood	New Jersey	NJ	Monmouth	025			40.1389	-74.1122	
+US	08730	Brielle	New Jersey	NJ	Monmouth	025			40.1077	-74.0635	
+US	08736	Manasquan	New Jersey	NJ	Monmouth	025			40.1217	-74.0611	
+US	08750	Sea Girt	New Jersey	NJ	Monmouth	025			40.1345	-74.0436	
+US	07005	Boonton	New Jersey	NJ	Morris	027			40.9115	-74.414	
+US	07034	Lake Hiawatha	New Jersey	NJ	Morris	027			40.8825	-74.383	
+US	07035	Lincoln Park	New Jersey	NJ	Morris	027			40.9208	-74.2995	
+US	07045	Montville	New Jersey	NJ	Morris	027			40.9049	-74.3646	
+US	07046	Mountain Lakes	New Jersey	NJ	Morris	027			40.8904	-74.4415	
+US	07054	Parsippany	New Jersey	NJ	Morris	027			40.8621	-74.4117	
+US	07058	Pine Brook	New Jersey	NJ	Morris	027			40.8742	-74.35	
+US	07082	Towaco	New Jersey	NJ	Morris	027			40.9277	-74.3428	
+US	07405	Butler	New Jersey	NJ	Morris	027			40.9988	-74.4261	
+US	07440	Pequannock	New Jersey	NJ	Morris	027			40.9473	-74.296	
+US	07444	Pompton Plains	New Jersey	NJ	Morris	027			40.9655	-74.3016	
+US	07457	Riverdale	New Jersey	NJ	Morris	027			40.9931	-74.3088	
+US	07801	Dover	New Jersey	NJ	Morris	027			40.9176	-74.5467	
+US	07802	Dover	New Jersey	NJ	Morris	027			40.8673	-74.5783	
+US	07803	Mine Hill	New Jersey	NJ	Morris	027			40.8771	-74.5845	
+US	07806	Picatinny Arsenal	New Jersey	NJ	Morris	027			40.8673	-74.5783	
+US	07828	Budd Lake	New Jersey	NJ	Morris	027			40.8731	-74.7426	
+US	07834	Denville	New Jersey	NJ	Morris	027			40.8897	-74.4844	
+US	07836	Flanders	New Jersey	NJ	Morris	027			40.8453	-74.7019	
+US	07842	Hibernia	New Jersey	NJ	Morris	027			40.8673	-74.5783	
+US	07845	Ironia	New Jersey	NJ	Morris	027			40.8673	-74.5783	
+US	07847	Kenvil	New Jersey	NJ	Morris	027			40.8819	-74.621	
+US	07849	Lake Hopatcong	New Jersey	NJ	Morris	027			40.9506	-74.6129	
+US	07850	Landing	New Jersey	NJ	Morris	027			40.9087	-74.6554	
+US	07852	Ledgewood	New Jersey	NJ	Morris	027			40.878	-74.6554	
+US	07853	Long Valley	New Jersey	NJ	Morris	027			40.7878	-74.787	
+US	07856	Mount Arlington	New Jersey	NJ	Morris	027			40.9283	-74.6363	
+US	07857	Netcong	New Jersey	NJ	Morris	027			40.8985	-74.6985	
+US	07866	Rockaway	New Jersey	NJ	Morris	027			40.9229	-74.5094	
+US	07869	Randolph	New Jersey	NJ	Morris	027			40.8456	-74.5725	
+US	07870	Schooleys Mountain	New Jersey	NJ	Morris	027			40.8104	-74.8193	
+US	07876	Succasunna	New Jersey	NJ	Morris	027			40.8539	-74.6536	
+US	07878	Mount Tabor	New Jersey	NJ	Morris	027			40.8711	-74.4777	
+US	07885	Wharton	New Jersey	NJ	Morris	027			40.9139	-74.5863	
+US	07926	Brookside	New Jersey	NJ	Morris	027			40.8004	-74.5718	
+US	07927	Cedar Knolls	New Jersey	NJ	Morris	027			40.8223	-74.4569	
+US	07928	Chatham	New Jersey	NJ	Morris	027			40.7305	-74.4017	
+US	07930	Chester	New Jersey	NJ	Morris	027			40.7892	-74.6776	
+US	07932	Florham Park	New Jersey	NJ	Morris	027			40.7757	-74.3928	
+US	07933	Gillette	New Jersey	NJ	Morris	027			40.6877	-74.4681	
+US	07935	Green Village	New Jersey	NJ	Morris	027			40.7416	-74.4517	
+US	07936	East Hanover	New Jersey	NJ	Morris	027			40.8192	-74.3636	
+US	07940	Madison	New Jersey	NJ	Morris	027			40.7599	-74.4179	
+US	07945	Mendham	New Jersey	NJ	Morris	027			40.7789	-74.6	
+US	07946	Millington	New Jersey	NJ	Morris	027			40.6727	-74.5183	
+US	07950	Morris Plains	New Jersey	NJ	Morris	027			40.8445	-74.4824	
+US	07960	Morristown	New Jersey	NJ	Morris	027			40.7952	-74.4873	
+US	07961	Morristown	New Jersey	NJ	Morris	027			40.7797	-74.4428	
+US	07962	Morristown	New Jersey	NJ	Morris	027			40.8673	-74.5783	
+US	07963	Morristown	New Jersey	NJ	Morris	027			40.8673	-74.5783	
+US	07970	Mount Freedom	New Jersey	NJ	Morris	027			40.8055	-74.5738	
+US	07976	New Vernon	New Jersey	NJ	Morris	027			40.7347	-74.4845	
+US	07980	Stirling	New Jersey	NJ	Morris	027			40.6774	-74.4968	
+US	07981	Whippany	New Jersey	NJ	Morris	027			40.8219	-74.42	
+US	07983	Whippany	New Jersey	NJ	Morris	027			40.8673	-74.5783	
+US	07999	Whippany	New Jersey	NJ	Morris	027			40.8673	-74.5783	
+US	08005	Barnegat	New Jersey	NJ	Ocean	029			39.7552	-74.247	
+US	08006	Barnegat Light	New Jersey	NJ	Ocean	029			39.7512	-74.1146	
+US	08008	Beach Haven	New Jersey	NJ	Ocean	029			39.6411	-74.1922	
+US	08050	Manahawkin	New Jersey	NJ	Ocean	029			39.705	-74.2604	
+US	08087	Tuckerton	New Jersey	NJ	Ocean	029			39.5881	-74.3646	
+US	08092	West Creek	New Jersey	NJ	Ocean	029			39.6627	-74.2885	
+US	08527	Jackson	New Jersey	NJ	Ocean	029			40.121	-74.3017	
+US	08533	New Egypt	New Jersey	NJ	Ocean	029			40.0713	-74.5067	
+US	08701	Lakewood	New Jersey	NJ	Ocean	029			40.085	-74.2042	
+US	08721	Bayville	New Jersey	NJ	Ocean	029			39.9147	-74.1905	
+US	08722	Beachwood	New Jersey	NJ	Ocean	029			39.9302	-74.1961	
+US	08723	Brick	New Jersey	NJ	Ocean	029			40.0389	-74.1109	
+US	08724	Brick	New Jersey	NJ	Ocean	029			40.0874	-74.1152	
+US	08731	Forked River	New Jersey	NJ	Ocean	029			39.8444	-74.1973	
+US	08732	Island Heights	New Jersey	NJ	Ocean	029			39.9432	-74.1468	
+US	08733	Lakehurst	New Jersey	NJ	Ocean	029			40.0263	-74.3254	
+US	08734	Lanoka Harbor	New Jersey	NJ	Ocean	029			39.862	-74.1668	
+US	08735	Lavallette	New Jersey	NJ	Ocean	029			39.9775	-74.0704	
+US	08738	Mantoloking	New Jersey	NJ	Ocean	029			40.0261	-74.0562	
+US	08739	Normandy Beach	New Jersey	NJ	Ocean	029			40.0008	-74.2493	
+US	08740	Ocean Gate	New Jersey	NJ	Ocean	029			39.926	-74.1351	
+US	08741	Pine Beach	New Jersey	NJ	Ocean	029			39.9347	-74.168	
+US	08742	Point Pleasant Beach	New Jersey	NJ	Ocean	029			40.0806	-74.0595	
+US	08751	Seaside Heights	New Jersey	NJ	Ocean	029			39.9466	-74.0765	
+US	08752	Seaside Park	New Jersey	NJ	Ocean	029			39.9222	-74.0795	
+US	08753	Toms River	New Jersey	NJ	Ocean	029			39.9771	-74.1565	
+US	08754	Toms River	New Jersey	NJ	Ocean	029			40.0008	-74.2493	
+US	08755	Toms River	New Jersey	NJ	Ocean	029			39.9999	-74.2228	
+US	08756	Toms River	New Jersey	NJ	Ocean	029			39.788	-74.1911	
+US	08757	Toms River	New Jersey	NJ	Ocean	029			39.9715	-74.2512	
+US	08758	Waretown	New Jersey	NJ	Ocean	029			39.7896	-74.1954	
+US	08759	Whiting	New Jersey	NJ	Ocean	029			39.951	-74.3607	
+US	07011	Clifton	New Jersey	NJ	Passaic	031			40.8789	-74.1425	
+US	07012	Clifton	New Jersey	NJ	Passaic	031			40.8488	-74.1612	
+US	07013	Clifton	New Jersey	NJ	Passaic	031			40.8693	-74.1711	
+US	07014	Clifton	New Jersey	NJ	Passaic	031			40.8344	-74.1377	
+US	07015	Clifton	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07055	Passaic	New Jersey	NJ	Passaic	031			40.8601	-74.1283	
+US	07403	Bloomingdale	New Jersey	NJ	Passaic	031			41.0128	-74.3338	
+US	07420	Haskell	New Jersey	NJ	Passaic	031			41.0301	-74.2965	
+US	07421	Hewitt	New Jersey	NJ	Passaic	031			41.1709	-74.3686	
+US	07424	Little Falls	New Jersey	NJ	Passaic	031			40.8835	-74.2144	
+US	07435	Newfoundland	New Jersey	NJ	Passaic	031			41.0647	-74.4359	
+US	07438	Oak Ridge	New Jersey	NJ	Passaic	031			41.0302	-74.5198	
+US	07442	Pompton Lakes	New Jersey	NJ	Passaic	031			40.9993	-74.2876	
+US	07456	Ringwood	New Jersey	NJ	Passaic	031			41.0928	-74.2659	
+US	07465	Wanaque	New Jersey	NJ	Passaic	031			41.0544	-74.279	
+US	07470	Wayne	New Jersey	NJ	Passaic	031			40.9471	-74.2466	
+US	07474	Wayne	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07477	Wayne	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07480	West Milford	New Jersey	NJ	Passaic	031			41.0915	-74.375	
+US	07501	Paterson	New Jersey	NJ	Passaic	031			40.9143	-74.1671	
+US	07502	Paterson	New Jersey	NJ	Passaic	031			40.9199	-74.1932	
+US	07503	Paterson	New Jersey	NJ	Passaic	031			40.897	-74.1573	
+US	07504	Paterson	New Jersey	NJ	Passaic	031			40.9122	-74.1452	
+US	07505	Paterson	New Jersey	NJ	Passaic	031			40.9166	-74.174	
+US	07506	Hawthorne	New Jersey	NJ	Passaic	031			40.9564	-74.1569	
+US	07507	Hawthorne	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07508	Haledon	New Jersey	NJ	Passaic	031			40.9457	-74.1826	
+US	07509	Paterson	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07510	Paterson	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07511	Totowa	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07512	Totowa	New Jersey	NJ	Passaic	031			40.9048	-74.2168	
+US	07513	Paterson	New Jersey	NJ	Passaic	031			40.907	-74.1529	
+US	07514	Paterson	New Jersey	NJ	Passaic	031			40.9248	-74.1467	
+US	07522	Paterson	New Jersey	NJ	Passaic	031			40.9252	-74.1781	
+US	07524	Paterson	New Jersey	NJ	Passaic	031			40.9309	-74.1555	
+US	07530	Paterson	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07533	Paterson	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07538	Haledon	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07543	Paterson	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	07544	Paterson	New Jersey	NJ	Passaic	031			41.0114	-74.3048	
+US	08001	Alloway	New Jersey	NJ	Salem	033			39.5591	-75.3506	
+US	08023	Deepwater	New Jersey	NJ	Salem	033			39.6815	-75.4934	
+US	08038	Hancocks Bridge	New Jersey	NJ	Salem	033			39.4716	-75.4902	
+US	08067	Pedricktown	New Jersey	NJ	Salem	033			39.7435	-75.412	
+US	08069	Penns Grove	New Jersey	NJ	Salem	033			39.6994	-75.4495	
+US	08070	Pennsville	New Jersey	NJ	Salem	033			39.6491	-75.5155	
+US	08072	Quinton	New Jersey	NJ	Salem	033			39.5411	-75.3837	
+US	08079	Salem	New Jersey	NJ	Salem	033			39.5591	-75.4521	
+US	08098	Woodstown	New Jersey	NJ	Salem	033			39.6457	-75.3248	
+US	08318	Elmer	New Jersey	NJ	Salem	033			39.5691	-75.163	
+US	08347	Norma	New Jersey	NJ	Salem	033			39.4998	-75.082	
+US	07059	Warren	New Jersey	NJ	Somerset	035			40.6318	-74.5105	
+US	07920	Basking Ridge	New Jersey	NJ	Somerset	035			40.6789	-74.5605	
+US	07921	Bedminster	New Jersey	NJ	Somerset	035			40.6571	-74.6432	
+US	07924	Bernardsville	New Jersey	NJ	Somerset	035			40.7225	-74.5778	
+US	07931	Far Hills	New Jersey	NJ	Somerset	035			40.6996	-74.6536	
+US	07934	Gladstone	New Jersey	NJ	Somerset	035			40.7219	-74.6707	
+US	07938	Liberty Corner	New Jersey	NJ	Somerset	035			40.6554	-74.5862	
+US	07939	Lyons	New Jersey	NJ	Somerset	035			40.6674	-74.5539	
+US	07977	Peapack	New Jersey	NJ	Somerset	035			40.7079	-74.6541	
+US	07978	Pluckemin	New Jersey	NJ	Somerset	035			40.6425	-74.6396	
+US	08502	Belle Mead	New Jersey	NJ	Somerset	035			40.4483	-74.6557	
+US	08504	Blawenburg	New Jersey	NJ	Somerset	035			40.4254	-74.6688	
+US	08528	Kingston	New Jersey	NJ	Somerset	035			40.3828	-74.6096	
+US	08553	Rocky Hill	New Jersey	NJ	Somerset	035			40.401	-74.64	
+US	08558	Skillman	New Jersey	NJ	Somerset	035			40.4173	-74.6938	
+US	08805	Bound Brook	New Jersey	NJ	Somerset	035			40.5681	-74.5397	
+US	08807	Bridgewater	New Jersey	NJ	Somerset	035			40.5904	-74.6267	
+US	08821	Flagtown	New Jersey	NJ	Somerset	035			40.5666	-74.5998	
+US	08823	Franklin Park	New Jersey	NJ	Somerset	035			40.4421	-74.5369	
+US	08835	Manville	New Jersey	NJ	Somerset	035			40.5399	-74.5934	
+US	08836	Martinsville	New Jersey	NJ	Somerset	035			40.6	-74.5572	
+US	08844	Hillsborough	New Jersey	NJ	Somerset County	035			40.4775	-74.6272	
+US	08853	Neshanic Station	New Jersey	NJ	Somerset	035			40.5293	-74.7401	
+US	08869	Raritan	New Jersey	NJ	Somerset	035			40.5711	-74.6377	
+US	08873	Somerset	New Jersey	NJ	Somerset	035			40.5007	-74.5013	
+US	08875	Somerset	New Jersey	NJ	Somerset	035			40.5809	-74.7117	
+US	08876	Somerville	New Jersey	NJ	Somerset	035			40.588	-74.6874	
+US	08880	South Bound Brook	New Jersey	NJ	Somerset	035			40.5523	-74.5311	
+US	08890	Zarephath	New Jersey	NJ	Somerset	035			40.5361	-74.5789	
+US	08896	Raritan	New Jersey	NJ	Somerset	035			40.5666	-74.5998	
+US	07416	Franklin	New Jersey	NJ	Sussex	037			41.1164	-74.5865	
+US	07418	Glenwood	New Jersey	NJ	Sussex	037			41.2356	-74.4885	
+US	07419	Hamburg	New Jersey	NJ	Sussex	037			41.1467	-74.5874	
+US	07422	Highland Lakes	New Jersey	NJ	Sussex	037			41.1826	-74.4564	
+US	07428	Mc Afee	New Jersey	NJ	Sussex	037			41.2065	-74.5381	
+US	07439	Ogdensburg	New Jersey	NJ	Sussex	037			41.0767	-74.5982	
+US	07460	Stockholm	New Jersey	NJ	Sussex	037			41.0992	-74.5283	
+US	07461	Sussex	New Jersey	NJ	Sussex	037			41.2292	-74.5992	
+US	07462	Vernon	New Jersey	NJ	Sussex	037			41.185	-74.5332	
+US	07821	Andover	New Jersey	NJ	Sussex	037			40.9614	-74.7524	
+US	07822	Augusta	New Jersey	NJ	Sussex	037			41.1451	-74.6848	
+US	07826	Branchville	New Jersey	NJ	Sussex	037			41.1705	-74.75	
+US	07827	Montague	New Jersey	NJ	Sussex	037			41.3023	-74.754	
+US	07837	Glasser	New Jersey	NJ	Sussex	037			41.1283	-74.679	
+US	07839	Greendell	New Jersey	NJ	Sussex	037			41.1283	-74.679	
+US	07843	Hopatcong	New Jersey	NJ	Sussex	037			40.939	-74.6616	
+US	07848	Lafayette	New Jersey	NJ	Sussex	037			41.0761	-74.6912	
+US	07851	Layton	New Jersey	NJ	Sussex	037			41.2299	-74.8466	
+US	07855	Middleville	New Jersey	NJ	Sussex	037			41.1283	-74.679	
+US	07860	Newton	New Jersey	NJ	Sussex	037			41.0695	-74.8069	
+US	07871	Sparta	New Jersey	NJ	Sussex	037			41.0277	-74.6407	
+US	07874	Stanhope	New Jersey	NJ	Sussex	037			40.9217	-74.7004	
+US	07875	Stillwater	New Jersey	NJ	Sussex	037			41.0439	-74.872	
+US	07877	Swartswood	New Jersey	NJ	Sussex	037			41.1029	-74.8508	
+US	07879	Tranquility	New Jersey	NJ	Sussex	037			40.9559	-74.7881	
+US	07881	Wallpack Center	New Jersey	NJ	Sussex	037			41.1256	-74.9177	
+US	07890	Branchville	New Jersey	NJ	Sussex	037			41.1283	-74.679	
+US	07016	Cranford	New Jersey	NJ	Union	039			40.6554	-74.3057	
+US	07023	Fanwood	New Jersey	NJ	Union	039			40.6419	-74.3868	
+US	07027	Garwood	New Jersey	NJ	Union	039			40.6512	-74.3239	
+US	07033	Kenilworth	New Jersey	NJ	Union	039			40.6759	-74.2944	
+US	07036	Linden	New Jersey	NJ	Union	039			40.6354	-74.2556	
+US	07060	Plainfield	New Jersey	NJ	Union	039			40.6152	-74.415	
+US	07061	Plainfield	New Jersey	NJ	Union	039			40.6657	-74.2997	
+US	07062	Plainfield	New Jersey	NJ	Union	039			40.6323	-74.3997	
+US	07063	Plainfield	New Jersey	NJ	Union	039			40.6048	-74.4427	
+US	07065	Rahway	New Jersey	NJ	Union	039			40.6087	-74.2819	
+US	07066	Clark	New Jersey	NJ	Union	039			40.6203	-74.3106	
+US	07069	Watchung	New Jersey	NJ	Union County	039			40.6378	-74.4514	
+US	07076	Scotch Plains	New Jersey	NJ	Union	039			40.6379	-74.3682	
+US	07081	Springfield	New Jersey	NJ	Union	039			40.7015	-74.3227	
+US	07083	Union	New Jersey	NJ	Union	039			40.6952	-74.2677	
+US	07088	Vauxhall	New Jersey	NJ	Union	039			40.7179	-74.2829	
+US	07090	Westfield	New Jersey	NJ	Union	039			40.6479	-74.3451	
+US	07091	Westfield	New Jersey	NJ	Union	039			40.6657	-74.2997	
+US	07092	Mountainside	New Jersey	NJ	Union	039			40.6785	-74.3588	
+US	07201	Elizabeth	New Jersey	NJ	Union	039			40.6717	-74.2043	
+US	07202	Elizabeth	New Jersey	NJ	Union	039			40.6565	-74.2215	
+US	07203	Roselle	New Jersey	NJ	Union	039			40.653	-74.261	
+US	07204	Roselle Park	New Jersey	NJ	Union	039			40.6651	-74.267	
+US	07205	Hillside	New Jersey	NJ	Union	039			40.6968	-74.2281	
+US	07206	Elizabeth	New Jersey	NJ	Union	039			40.6532	-74.1925	
+US	07207	Elizabeth	New Jersey	NJ	Union	039			40.6657	-74.2997	
+US	07208	Elizabeth	New Jersey	NJ	Union	039			40.6747	-74.2239	
+US	07215	Elizabeth	New Jersey	NJ	Union County	039			40.6638	-74.2109	
+US	07216	Elizabeth	New Jersey	NJ	Union County	039			40.6638	-74.2109	
+US	07901	Summit	New Jersey	NJ	Union	039			40.7149	-74.3642	
+US	07902	Summit	New Jersey	NJ	Union	039			40.6657	-74.2997	
+US	07922	Berkeley Heights	New Jersey	NJ	Union	039			40.6752	-74.4346	
+US	07974	New Providence	New Jersey	NJ	Union	039			40.7004	-74.4023	
+US	07820	Allamuchy	New Jersey	NJ	Warren	041			40.8696	-74.8497	
+US	07823	Belvidere	New Jersey	NJ	Warren	041			40.8308	-75.0503	
+US	07825	Blairstown	New Jersey	NJ	Warren	041			40.9674	-74.9651	
+US	07829	Buttzville	New Jersey	NJ	Warren	041			40.8434	-74.9859	
+US	07831	Changewater	New Jersey	NJ	Warren	041			40.7394	-74.9448	
+US	07832	Columbia	New Jersey	NJ	Warren	041			40.9388	-75.055	
+US	07833	Delaware	New Jersey	NJ	Warren	041			40.9069	-75.0754	
+US	07838	Great Meadows	New Jersey	NJ	Warren	041			40.852	-74.9418	
+US	07840	Hackettstown	New Jersey	NJ	Warren	041			40.8529	-74.8343	
+US	07844	Hope	New Jersey	NJ	Warren	041			40.9197	-74.9846	
+US	07846	Johnsonburg	New Jersey	NJ	Warren	041			40.969	-74.8733	
+US	07863	Oxford	New Jersey	NJ	Warren	041			40.8105	-75.0019	
+US	07865	Port Murray	New Jersey	NJ	Warren	041			40.7906	-74.9167	
+US	07880	Vienna	New Jersey	NJ	Warren	041			40.8648	-74.897	
+US	07882	Washington	New Jersey	NJ	Warren	041			40.7582	-74.9914	
+US	08802	Asbury	New Jersey	NJ	Warren	041			40.695	-75.0281	
+US	08808	Broadway	New Jersey	NJ	Warren	041			40.7372	-75.0469	
+US	08865	Phillipsburg	New Jersey	NJ	Warren	041			40.7079	-75.1507	
+US	08886	Stewartsville	New Jersey	NJ	Warren	041			40.6957	-75.0825	
