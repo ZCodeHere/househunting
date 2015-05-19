@@ -1,5 +1,6 @@
 import os 
 import math
+import json
  
 class CityTaxRates():
     
@@ -82,7 +83,7 @@ class ZipCodeCollection():
         return distanceByLatLong((lat1, long1), (lat2, long2))
         
 
-def initZipCode():
+def initZipCode(validCounties = None):
     dir = os.path.dirname(os.path.realpath(__file__))
     zipCodeFile = dir + '/../data/NJ_zipcode.txt'
     
@@ -99,6 +100,13 @@ def initZipCode():
             zipcode = arr[1]
             town = arr[2]
             town = town.lower()
+            county = arr[5]
+            county = county.lower()
+            
+            if validCounties != None and county not in validCounties:
+                print "ignoring county ", county
+                continue
+            
             latitude = float(arr[-2])
             longitude = float(arr[-1])
             zipCodeObj = ZipCode(zipcode, town, latitude, longitude)
@@ -137,3 +145,19 @@ def distanceByLatLong(origin, destination):
     d = radius * c
  
     return d 
+
+
+def loadTansitPlanJson(zipcode, code):
+    filename = os.path.dirname(os.path.realpath(__file__)) \
+                    + '/output' + code + '/' + zipcode + '.txt'
+    with open(filename) as data_file:    
+        data = json.load(data_file)
+    if 'routes' not in data or len(data['routes']) == 0:
+        return 1e10
+    route = data['routes'][0]
+    if 'legs' not in route or len(route['legs']) == 0:
+        return 1e10
+    leg = route['legs'][0]
+    return leg['duration']['value']
+    
+    

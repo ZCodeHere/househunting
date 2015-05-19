@@ -4,13 +4,16 @@ import time
 from random import randint
 
 def main():
-    zipCodeGist = initZipCode()
+    zipCodeGist = initZipCode(['hudson', 'bergen', 'essex', 'middlesex', 'morris', 
+                               'passaic', 'somerset', 'sussex', 'union'])
     cityTaxRate = initCityTaxRate()
     
+    print zipCodeGist.getAllZipCodes()
+    print len(zipCodeGist.getAllZipCodes())
+    
     for zipcode in zipCodeGist.getAllZipCodes():
-    #for zipcode in ['07302', '07306']:
-        dumpAPI.bingCall(zipcode, '250 W 55th St, New York, NY', code = 'S')
-        wait = 60 + randint(0,20)
+        dumpAPI.googleCall(zipcode, '250 W 55th St, New York, NY', code = 'S')
+        wait = 20 + randint(0,20)
         print "dumped ", zipcode, "waiting for ", wait
         time.sleep(wait)
         
