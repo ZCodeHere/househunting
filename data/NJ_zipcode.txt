@@ -751,3 +751,4 @@ US	08802	Asbury	New Jersey	NJ	Warren	041			40.695	-75.0281
 US	08808	Broadway	New Jersey	NJ	Warren	041			40.7372	-75.0469	
 US	08865	Phillipsburg	New Jersey	NJ	Warren	041			40.7079	-75.1507	
 US	08886	Stewartsville	New Jersey	NJ	Warren	041			40.6957	-75.0825	
+US	10019	New York	New York	NY	NJ	041			40.7657	-73.9856

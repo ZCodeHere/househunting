@@ -1,33 +1,20 @@
-import os
-from util import ZipCode
-
+from util import initZipCode, initCityTaxRate
+import dumpAPI
+import time
+from random import randint
 
 def main():
-    initZipCode()
-
-def initZipCode():
-    dir = os.path.dirname(os.path.realpath(__file__))
-    zipCodeFile = dir + '\..\data\NJ_zipcode.txt'
+    zipCodeGist = initZipCode()
+    cityTaxRate = initCityTaxRate()
     
-    zipCodeList = []
-    
-    with open(zipCodeFile) as f:
-        while True:
-            line = f.readline()
-            line = line.trim()
-            if (len(line) == 0):
-                break
-            
-            arr = line.split('\t')
-            zipcode = arr[1]
-            town = arr[2]
-            longtitude = float(arr[-2])
-            latitude = float(arr[-1])
-            zipCodeObj = ZipCode(zipcode, town, longtitude, latitude)
-            
-            zipCodeList.append(zipCodeObj)
-
-    return zipCodeList
+    for zipcode in zipCodeGist.getAllZipCodes():
+    #for zipcode in ['07302', '07306']:
+        dumpAPI.bingCall(zipcode, '250 W 55th St, New York, NY', code = 'S')
+        wait = 60 + randint(0,20)
+        print "dumped ", zipcode, "waiting for ", wait
+        time.sleep(wait)
+        
+        
 
 if __name__ == '__main__':
     main()
